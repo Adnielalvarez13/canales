@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1,PE: AMERICA HD
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/97667
-#EXTINF:-1,PE: AMERICA TELEVISION
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/99856
-#EXTINF:-1,PE: ANT TV
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/122379
-#EXTINF:-1,PE: ANTARES TV
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/998
+#EXTINF:0 tvg-id="ext" group-title="CINE",CONTRATA HOY TVPREMIUMHD.COM
+http://tvpremiumhd.club/lista-gratuita/182131/on/live.php?id=live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CINE",PPV Cinema Latino 01
+http://tvpremiumhd.club/lista-gratuita/182131/tv/live.php?id=1643
+#EXTINF:0 tvg-id="ext" group-title="CINE",PPV Cinema Latino 02
+http://tvpremiumhd.club/lista-gratuita/182131/tv/live.php?id=1644
