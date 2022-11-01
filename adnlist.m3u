@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Deportes",MLB USA
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",MLB TV
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1
+#EXTINF:0 tvg-id="ESPN2.us" group-title="Sport",ESPN 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159598?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ESPN3HD.mx" group-title="Sport",ESPN 3 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159599?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Espnextra.br" group-title="Sport",ESPN Extra HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159600?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Sport",Espn HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159601?checkedby:iptvcat.com
