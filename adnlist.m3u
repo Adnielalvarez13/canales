@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ESPN2.us" group-title="Sport",ESPN 2 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159598?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ESPN3HD.mx" group-title="Sport",ESPN 3 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159599?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="Espnextra.br" group-title="Sport",ESPN Extra HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159600?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ESPN.uk" group-title="Sport",Espn HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159601?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="Sport",Fox Sports 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.sports.1.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Sport",Fox Sports 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.sports.2.us.m3u8?checkedby:iptvcat.com
