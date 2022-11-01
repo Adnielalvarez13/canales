@@ -1,12 +1,15 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",--- LISTA GRATIS achoAPPS.com
-http://www.achoTV.com
-
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fight Time
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",MLB
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",hbo2 dual (eng esp) www.achoapps.com
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",CDO Premium
-http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",7 Noticias (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/7nntv
+#EXTINF:0 tvg-id="ext" group-title="News",101TV Malaga (1080p) [Not 24/7]
+https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Al Jazeera Documentary (270p) [Geo-blocked]
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:0 tvg-id="avi" group-title="News",Al Jazeera English (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/aljazeeraenglish/live
+#EXTINF:0 tvg-id="ext" group-title="News",Azerbaijan News TV (720p) [Not 24/7]
+https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",BBC News HD (720p) [Geo-blocked]
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+#EXTINF:0 tvg-id="bbc-world" group-title="News" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",BBC World News (480p)
+http://ott-cdn.ucom.am/s24/index.m3u8
