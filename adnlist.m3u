@@ -1,21 +1,15 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Undefined",TeleCinco Trelew (240p)
 https://videohd.live:19360/8016/8016.m3u8
-#EXTINF:-1,FOX SPORTS
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL194/PROFILE05.m3u8
-#EXTINF:-1,FOX SPORTS HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL194/PROFILE05.m3u8
-#EXTINF:-1, CANAL JUDICIAL
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL196/PROFILE05.m3u8
-#EXTINF:-1, HLN CHANNEL
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL197/PROFILE05.m3u8
-#EXTINF:-1, ANTENA 3
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL199/PROFILE05.m3u8
-#EXTINF:-1, FOX
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8
-#EXTINF:-1, SONY
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE05.m3u8
-#EXTINF:-1, WARNER
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE05.m3u8
-#EXTINF:-1, UNIVERSAL
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE05.m3u8
+
+#EXTINF:-1,LA SEXTA HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/804.m3u8
+
+#EXTINF:-1,TELECINCO HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/805.m3u8
+
+#EXTINF:-1,CUATRO HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/806.m3u8
+
+#EXTINF:-1,ANTENA 3 HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/807.m3u8
