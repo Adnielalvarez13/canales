@@ -1,7 +1,12 @@
 #EXTM3U
-#EXTINF:0 tvg-id="LA1.es" group-title="Generalistas",La 1
-https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:0 tvg-id="LA2.es" group-title="Generalistas",La 2
-https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF:0 tvg-id="antena3.es" group-title="Generalistas",Antena 3
-http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",--- LISTA GRATIS achoAPPS.com
+http://www.achoTV.com
+
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",hbo2 dual (eng esp) www.achoapps.com
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
