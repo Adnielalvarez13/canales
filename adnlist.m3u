@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Undefined",TeleCinco Trelew (240p)
-https://videohd.live:19360/8016/8016.m3u8
-
 #EXTINF:-1,LA SEXTA HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/804.m3u8
 
