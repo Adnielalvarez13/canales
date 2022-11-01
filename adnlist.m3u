@@ -1,1 +1,19 @@
-
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Cine",ATRESSERIES
+http://189.216.247.113/Content/HLS/Live/Channel(ATRES_SERIES)/index.m3u8
+#EXTINF:0 tvg-id="ForoTV.mx" group-title="Cine",FORO TV
+http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/index.m3u8
+#EXTINF:0 tvg-id="GalaTV.mx" group-title="Cine",GALA TV
+http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
+#EXTINF:0 tvg-id="Golden.mx" group-title="Cine",Golden
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Cine",NBA_TV
+http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
+#EXTINF:0 tvg-id="nickelod" group-title="Cine",NICK
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+#EXTINF:0 tvg-id="tnt" group-title="Cine",TNT
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:0 tvg-id="UnivisionTDN.mx" group-title="Cine",UNIVISION TDN
+http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
+#EXTINF:0 tvg-id="Space.br" group-title="Cine",Space
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
