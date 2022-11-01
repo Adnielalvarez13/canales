@@ -1,11 +1,21 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Undefined",TeleCinco Trelew (240p)
 https://videohd.live:19360/8016/8016.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Telecontacto
-https://vdo1.streamgato.us:3578/live/telecontactohdlive.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Telecreativa
-https://panel.dattalive.com/8012/8012/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Undefined",TeleDanlí (Canal 9) (720p) [Not 24/7]
-https://cloud2.streaminglivehd.com:1936/8224/8224/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Telediario TV
-https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
+#EXTINF:-1,FOX SPORTS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL194/PROFILE05.m3u8
+#EXTINF:-1,FOX SPORTS HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL194/PROFILE05.m3u8
+#EXTINF:-1, CANAL JUDICIAL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL196/PROFILE05.m3u8
+#EXTINF:-1, HLN CHANNEL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL197/PROFILE05.m3u8
+#EXTINF:-1, ANTENA 3
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL199/PROFILE05.m3u8
+#EXTINF:-1, FOX
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8
+#EXTINF:-1, SONY
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE05.m3u8
+#EXTINF:-1, WARNER
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE05.m3u8
+#EXTINF:-1, UNIVERSAL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE05.m3u8
