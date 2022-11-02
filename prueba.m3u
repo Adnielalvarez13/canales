@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Deportes",MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
