@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1,TNT
-http://201.219.223.101:46000/play/a00g
+#EXTINF:-1,TeleSUR
+http://45.167.194.11:8000/play/a00p
+#EXTINF:-1,Telecanal HD
+http://45.167.194.11:8000/play/a00c
+#EXTINF:-1,Telemundo
+http://45.167.194.11:8000/play/a01i
