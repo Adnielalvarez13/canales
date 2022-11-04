@@ -1,25 +1,34 @@
 #EXTM3U
-#EXTINF:-1,Disney Channel
-http://190.20.252.255:8000/play/a04t/index.m3u8
-#EXTINF:-1,Disney Jr
-http://190.20.252.255:8000/play/a04l/index.m3u8
-#EXTINF:-1,E Entertainment
-http://190.20.252.255:8000/play/a04x/index.m3u8
-#EXTINF:-1,ESPN
-http://190.20.252.255:8000/play/a050/index.m3u8
-#EXTINF:-1,ESPN 2
-http://190.20.252.255:8000/play/a04o/index.m3u8
-#EXTINF:-1,ESPN 2 Latin
-http://190.20.252.255:8000/play/a04z/index.m3u8
-#EXTINF:-1,ESPN 3
-http://190.20.252.255:8000/play/a062/index.m3u8
-#EXTINF:-1,ESPN 4
-http://190.20.252.255:8000/play/a04y/index.m3u8
-#EXTINF:-1,Enlace
-http://190.20.252.255:8000/play/a043/index.m3u8
-#EXTINF:-1,Esne TV
-http://190.20.252.255:8000/play/a061/index.m3u8
-#EXTINF:-1,FX
-http://190.20.252.255:8000/play/a05r/index.m3u8
-#EXTINF:-1,Fox Sports 3
-http://190.20.252.255:8000/play/a05k/index.m3u8
+#EXTINF:-1,Caracol HD
+http://181.119.67.75:8000/play/a03w
+#EXTINF:-1,DW (Deutsch +)
+http://181.119.67.75:8000/play/a03u
+#EXTINF:-1,Discovery H&H HD
+http://181.119.67.75:8000/play/a03h
+#EXTINF:-1,Discovery HD
+http://181.119.67.75:8000/play/a03m
+#EXTINF:-1,Discovery Kids HD
+http://181.119.67.75:8000/play/a03z
+#EXTINF:-1,ESPN 2 HD
+http://181.119.67.75:8000/play/a03a
+#EXTINF:-1,ESPN 3 HD
+http://181.119.67.75:8000/play/a03d
+#EXTINF:-1,ESPN EXTRA HD
+http://181.119.67.75:8000/play/a03p
+#EXTINF:-1,ESPN HD
+http://181.119.67.75:8000/play/a03k
+#EXTINF:-1,El Gourmet HD
+http://181.119.67.75:8000/play/a03f
+#EXTINF:-1,Food Network HD
+http://181.119.67.75:8000/play/a03t
+#EXTINF:-1,ID HD
+http://181.119.67.75:8000/play/a03q
+#EXTINF:-1,Las Estrellas HD
+http://181.119.67.75:8000/play/a03r
+#EXTINF:-1,Nat Geo HD
+http://181.119.67.75:8000/play/a03n
+#EXTINF:-1,RCN HD
+http://181.119.67.75:8000/play/a063
+#EXTINF:-1,Win Sports HD
+http://181.119.67.75:8000/play/a062
+
