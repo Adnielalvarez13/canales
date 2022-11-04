@@ -162,56 +162,29 @@ https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Undefined",Visión Plus TV (Melipilla) (720p) [Not 24/7]
 http://v2.tustreaming.cl/visionplustv/index.m3u8
 
-
-
-#EXTINF:0 tvg-id="ext" group-title="News",7 Noticias (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/7nntv
-#EXTINF:0 tvg-id="ext" group-title="News",24/7 Canal de Noticias (720p)
-https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",101TV Malaga (1080p) [Not 24/7]
-https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="News",A24 (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCR9120YBAqMfntqgRTKmkjQ/live
-#EXTINF:0 tvg-id="avi" group-title="News",ADN 40 (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC7k--FhnJzhPTrbtldMSoQQ/live
-#EXTINF:0 tvg-id="ext" group-title="News",ATV+ Noticias (480p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="News",ATV+ Noticias 
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",CGTN Español (576p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="News",CGTN Español 
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-#EXTINF:0 tvg-id="CNNenEspanol.us" group-title="News",CNN en Español
-http://209.91.213.10:8088/play/a014
-#EXTINF:0 tvg-id="ext" group-title="News",DW Español (1080p)
+#EXTINF:0 tvg-id="ext" group-title="News",DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Estrella News (1080p)
+#EXTINF:0 tvg-id="ext" group-title="News",Estrella News 
 https://estrellanews-plex.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",Euronews Spanish
 https://euronews.alteox.app/hls/es_stream.m3u8
-#EXTINF:0 tvg-id="FOXNewsChannel.us" group-title="News",Fox News Channel (720p)
-http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
-#EXTINF:0 tvg-id="avi" group-title="News",France 24 Español (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Espanol/live
-#EXTINF:0 tvg-id="ext" group-title="News",HispanTV (480p)
+#EXTINF:0 tvg-id="ext" group-title="News",HispanTV 
 https://live1.presstv.ir/live/hispan.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Identidad TV (720p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="News",Identidad TV  
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Información Periodística (1080p)
-https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",La Abeja (720p) [Not 24/7]
-http://cdnhd.iblups.com/hls/F87ppt1YAT.m3u8
-#EXTINF:0 tvg-id="avi" group-title="News",Meganoticias (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q/live
-#EXTINF:0 tvg-id="ext" group-title="News",Noticias Canal 10 (360p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="News",Noticias Canal 10 
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",RT en Español (1080p) [Geo-blocked]
+#EXTINF:0 tvg-id="ext" group-title="News",RT en Español 
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:0 tvg-id="avi" group-title="News",T13 (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg/live
-#EXTINF:0 tvg-id="ext" group-title="News",teleSUR (1080p)
-https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
-#EXTINF:0 tvg-id="avi" group-title="News",Televisa News Mexico (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCUsm-fannqOY02PNN67C0KA/live
-#EXTINF:0 tvg-id="avi" group-title="News",TN Todo Noticias (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live
+
+
+
+
+
 
 #EXTINF:0 tvg-id="ext" group-title="General",13Max Televisión (1080p)
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
@@ -265,6 +238,12 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3
 https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",WOW TV (576p) [Not 24/7]
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+
+
+
+
+
 
 #EXTINF:0 tvg-id="ext" group-title="Movies",A3Cine (1080p)
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
