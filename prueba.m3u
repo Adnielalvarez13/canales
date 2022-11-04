@@ -1,25 +1,32 @@
 #EXTM3U
-#EXTINF:-1,TNT
-http://190.108.85.116:8000/play/a08h/index.m3u8
-#EXTINF:-1,TNT Series
-http://190.108.85.116:8000/play/a0gk/index.m3u8
-#EXTINF:-1,TVE
-http://190.108.85.116:8000/play/a08m/index.m3u8
-#EXTINF:-1,Telemundo
-http://190.108.85.116:8000/play/a09t/index.m3u8
-#EXTINF:-1,Telesur
-http://190.108.85.116:8000/play/a0gt/index.m3u8
-#EXTINF:-1,Tooncast
-http://190.108.85.116:8000/play/a0g3/index.m3u8
-#EXTINF:-1,Tru TV
-http://190.108.85.116:8000/play/a0gi/index.m3u8
-#EXTINF:-1,TyC
-http://190.108.85.116:8000/play/a09k/index.m3u8
-#EXTINF:-1,Universal
-http://190.108.85.116:8000/play/a089/index.m3u8
-#EXTINF:-1,ViaX
-http://190.108.85.116:8000/play/a09p/index.m3u8
-#EXTINF:-1,Warner
-http://190.108.85.116:8000/play/a09e/index.m3u8
-#EXTINF:-1,Zona Latina
-http://190.108.85.116:8000/play/a08c/index.m3u8
+#EXTINF:-1,CANAL 1
+http://181.78.3.70:45000/play/a00b
+#EXTINF:-1,CANAL HABANA
+#EXTINF:-1,CLAVE
+http://181.78.3.70:45000/play/a01t
+#EXTINF:-1,CUBAVISION
+http://181.78.3.70:45000/play/a027
+#EXTINF:-1,CUBAVISION INTERNACIONAL
+http://181.78.3.70:45000/play/a02b
+#EXTINF:-1,CUBAVISION INTERNACIONAL
+http://181.78.3.70:45000/play/a01u
+#EXTINF:-1,CVI/Caribe
+http://181.78.3.70:45000/play/a025
+#EXTINF:-1,Canal RCN
+http://181.78.3.70:45000/play/a051
+#EXTINF:-1,Canal Uno
+http://181.78.3.70:45000/play/a04z
+#EXTINF:-1,Clave
+http://181.78.3.70:45000/play/a026
+#EXTINF:-1,ConCiencia TV
+http://181.78.3.70:45000/play/a015
+#EXTINF:-1,Cubavisiðn
+http://181.78.3.70:45000/play/a01z
+#EXTINF:-1,EDUCATIVO
+http://181.78.3.70:45000/play/a029
+#EXTINF:-1,EDUCATIVO 2
+http://181.78.3.70:45000/play/a02a
+#EXTINF:-1,Educativo
+http://181.78.3.70:45000/play/a021
+#EXTINF:-1,Educativo 2
+http://181.78.3.70:45000/play/a022
