@@ -1,34 +1,17 @@
 #EXTM3U
-#EXTINF:-1,Caracol HD
-http://181.119.67.75:8000/play/a03w
-#EXTINF:-1,DW (Deutsch +)
-http://181.119.67.75:8000/play/a03u
-#EXTINF:-1,Discovery H&H HD
-http://181.119.67.75:8000/play/a03h
-#EXTINF:-1,Discovery HD
-http://181.119.67.75:8000/play/a03m
-#EXTINF:-1,Discovery Kids HD
-http://181.119.67.75:8000/play/a03z
-#EXTINF:-1,ESPN 2 HD
-http://181.119.67.75:8000/play/a03a
-#EXTINF:-1,ESPN 3 HD
-http://181.119.67.75:8000/play/a03d
-#EXTINF:-1,ESPN EXTRA HD
-http://181.119.67.75:8000/play/a03p
-#EXTINF:-1,ESPN HD
-http://181.119.67.75:8000/play/a03k
-#EXTINF:-1,El Gourmet HD
-http://181.119.67.75:8000/play/a03f
-#EXTINF:-1,Food Network HD
-http://181.119.67.75:8000/play/a03t
-#EXTINF:-1,ID HD
-http://181.119.67.75:8000/play/a03q
-#EXTINF:-1,Las Estrellas HD
-http://181.119.67.75:8000/play/a03r
-#EXTINF:-1,Nat Geo HD
-http://181.119.67.75:8000/play/a03n
-#EXTINF:-1,RCN HD
-http://181.119.67.75:8000/play/a063
-#EXTINF:-1,Win Sports HD
-http://181.119.67.75:8000/play/a062
-
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Tsn 1
+http://cdn.geoiptv.org:2052/live/65938972/96486101/652200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Rds HD
+http://cdn.geoiptv.org:2052/live/65938972/96486101/652201.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PL: TVp Sport
+http://cdn.geoiptv.org:2052/live/65938972/96486101/652202.m3u8
+#EXTINF:0 tvg-id="FOXSports1HD.us" group-title="Channels",US: Fox Sports 1 HD
+http://cdn.geoiptv.org:2052/live/65938972/96486101/652203.m3u8
+#EXTINF:0 tvg-id="FSNWestHD.us" group-title="Channels",US: Fox Sports West FHD
+http://cdn.geoiptv.org:2052/live/65938972/96486101/652204.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",T20: Gazi TV HD
+http://cdn.geoiptv.org:2052/live/65938972/96486101/625480.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",T20: PTV Sports (B1)
+http://cdn.geoiptv.org:2052/live/65938972/96486101/617375.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",T20: PTV Sports (B2)
+http://cdn.geoiptv.org:2052/live/65938972/96486101/617380.m3u8
