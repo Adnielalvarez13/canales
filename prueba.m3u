@@ -1,7 +1,411 @@
 #EXTM3U
-#EXTINF:-1,TeleSUR
-http://45.167.194.11:8000/play/a00p
-#EXTINF:-1,Telecanal HD
-http://45.167.194.11:8000/play/a00c
-#EXTINF:-1,Telemundo
-http://45.167.194.11:8000/play/a01i
+#EXTINF:-1,1-2-3.tv
+http://194.76.186.59:8000/play/a046
+#EXTINF:-1,1-2-3.tv HD
+http://194.76.186.59:8000/play/a04m
+#EXTINF:-1,3sat HD
+http://194.76.186.59:8000/play/a03z
+#EXTINF:-1,ANIXE HD
+http://194.76.186.59:8000/play/a04c
+#EXTINF:-1,ANIXE+
+http://194.76.186.59:8000/play/a047
+#EXTINF:-1,ARD alpha HD
+http://194.76.186.59:8000/play/a03p
+#EXTINF:-1,ASTRA SDT
+http://194.76.186.59:8000/play/a02e
+#EXTINF:-1,Aristo.TV
+http://194.76.186.59:8000/play/a00z
+#EXTINF:-1,BILD HD
+http://194.76.186.59:8000/play/a04z
+#EXTINF:-1,BR Fernsehen Nord HD
+http://194.76.186.59:8000/play/a032
+#EXTINF:-1,BR Fernsehen Süd HD
+http://194.76.186.59:8000/play/a031
+#EXTINF:-1,BR-KLASSIK
+http://194.76.186.59:8000/play/a03s
+#EXTINF:-1,Beate Uhse HD
+http://194.76.186.59:8000/play/a05p
+#EXTINF:-1,Bloomberg Europe TV
+http://194.76.186.59:8000/play/a02f
+#EXTINF:-1,Channel21
+http://194.76.186.59:8000/play/a024
+#EXTINF:-1,Channel21 HD
+http://194.76.186.59:8000/play/a052
+#EXTINF:-1,Crime + Investigation
+http://194.76.186.59:8000/play/a00i
+#EXTINF:-1,DAZN 1 HD
+http://194.76.186.59:8000/play/a05h
+#EXTINF:-1,DELUXE MUSIC
+http://194.76.186.59:8000/play/a01z
+#EXTINF:-1,DMAX Austria
+http://194.76.186.59:8000/play/a021
+#EXTINF:-1,DMAX HD
+http://194.76.186.59:8000/play/a029
+#EXTINF:-1,DMAX HD Austria
+http://194.76.186.59:8000/play/a02d
+#EXTINF:-1,Das Erste HD
+http://194.76.186.59:8000/play/a03h
+#EXTINF:-1,Deluxe Music HD
+http://194.76.186.59:8000/play/a04n
+#EXTINF:-1,Deluxe Music HD Austria
+http://194.76.186.59:8000/play/a04r
+#EXTINF:-1,Disney Channel
+http://194.76.186.59:8000/play/a04a
+#EXTINF:-1,Disney Channel HD
+http://194.76.186.59:8000/play/a04k
+#EXTINF:-1,Disney Channel HD Austria
+http://194.76.186.59:8000/play/a04q
+#EXTINF:-1,DreamWorks HD
+http://194.76.186.59:8000/play/a008
+#EXTINF:-1,EWTN katholisches TV
+http://194.76.186.59:8000/play/a043
+#EXTINF:-1,Eurosport 1 HD
+http://194.76.186.59:8000/play/a02m
+#EXTINF:-1,Eurosport 1 HD Austria
+http://194.76.186.59:8000/play/a02o
+#EXTINF:-1,FOLX MUSIC TELEVISION
+http://194.76.186.59:8000/play/a025
+#EXTINF:-1,FOX HD
+http://194.76.186.59:8000/play/a002
+#EXTINF:-1,Flimmit
+http://194.76.186.59:8000/play/a00y
+#EXTINF:-1,Franken Plus HD
+http://194.76.186.59:8000/play/a03g
+#EXTINF:-1,Genius Plus
+http://194.76.186.59:8000/play/a04i
+#EXTINF:-1,Genius exklusiv
+http://194.76.186.59:8000/play/a01x
+#EXTINF:-1,HOLLYWOODHD
+http://194.76.186.59:8000/play/a007
+#EXTINF:-1,HSE Extra HD
+http://194.76.186.59:8000/play/a04l
+#EXTINF:-1,HSE HD
+http://194.76.186.59:8000/play/a04e
+#EXTINF:-1,Handystar TV
+http://194.76.186.59:8000/play/a045
+#EXTINF:-1,Handystar TV HD
+http://194.76.186.59:8000/play/a050
+#EXTINF:-1,Heimatkanal
+http://194.76.186.59:8000/play/a00e
+#EXTINF:-1,Immer etwas Neues TV
+http://194.76.186.59:8000/play/a022
+#EXTINF:-1,Junior
+http://194.76.186.59:8000/play/a00d
+#EXTINF:-1,Juwelo HD
+http://194.76.186.59:8000/play/a02a
+#EXTINF:-1,Kabel 1 Austria
+http://194.76.186.59:8000/play/a01p
+#EXTINF:-1,Kabel 1 Doku HD Austria
+http://194.76.186.59:8000/play/a01l
+#EXTINF:-1,Kabel 1 Schweiz
+http://194.76.186.59:8000/play/a01o
+#EXTINF:-1,Kabel Eins Doku HD
+http://194.76.186.59:8000/play/a01h
+#EXTINF:-1,KiKA HD
+http://194.76.186.59:8000/play/a040
+#EXTINF:-1,Lokal-TV-Portal HD
+http://194.76.186.59:8000/play/a03d
+#EXTINF:-1,M+ #VAMOSHD
+http://194.76.186.59:8000/play/a003
+#EXTINF:-1,M+ #VAMOSHD
+http://194.76.186.59:8000/play/a005
+#EXTINF:-1,M+ ACCI©N HD
+http://194.76.186.59:8000/play/a004
+#EXTINF:-1,M+ DRAMA HD
+http://194.76.186.59:8000/play/a006
+#EXTINF:-1,M+ Fest
+http://194.76.186.59:8000/play/a001
+#EXTINF:-1,M+LaLigaTVHD
+http://194.76.186.59:8000/play/a009
+#EXTINF:-1,MDR S-Anhalt HD
+http://194.76.186.59:8000/play/a03w
+#EXTINF:-1,MDR Sachsen HD
+http://194.76.186.59:8000/play/a03v
+#EXTINF:-1,MDR Thüringen HD
+http://194.76.186.59:8000/play/a03x
+#EXTINF:-1,MTV HD
+http://194.76.186.59:8000/play/a051
+#EXTINF:-1,MTV HD Austria
+http://194.76.186.59:8000/play/a055
+#EXTINF:-1,MediaShop- Meine Einkaufswelt
+http://194.76.186.59:8000/play/a026
+#EXTINF:-1,Melodie TV NEU
+http://194.76.186.59:8000/play/a015
+#EXTINF:-1,N24 DOKU
+http://194.76.186.59:8000/play/a042
+#EXTINF:-1,N24 DOKU Austria
+http://194.76.186.59:8000/play/a01w
+#EXTINF:-1,NDR FS HH HD
+http://194.76.186.59:8000/play/a035
+#EXTINF:-1,NDR FS MV HD
+http://194.76.186.59:8000/play/a034
+#EXTINF:-1,NDR FS NDS HD
+http://194.76.186.59:8000/play/a033
+#EXTINF:-1,NDR FS SH HD
+http://194.76.186.59:8000/play/a036
+#EXTINF:-1,NIEDERBAYERN TV HD
+http://194.76.186.59:8000/play/a03e
+#EXTINF:-1,NITRO HD
+http://194.76.186.59:8000/play/a00o
+#EXTINF:-1,Nicer Dicer TV
+http://194.76.186.59:8000/play/a04h
+#EXTINF:-1,Nick/Comedy Central Austria
+http://194.76.186.59:8000/play/a01y
+#EXTINF:-1,OE3.
+http://194.76.186.59:8000/play/a01b
+#EXTINF:-1,ONE HD
+http://194.76.186.59:8000/play/a03o
+#EXTINF:-1,ORF III HD
+http://194.76.186.59:8000/play/a00w
+#EXTINF:-1,ORF SPORT+ HD
+http://194.76.186.59:8000/play/a00x
+#EXTINF:-1,ORF1 HD
+http://194.76.186.59:8000/play/a016
+#EXTINF:-1,ORF2B HD
+http://194.76.186.59:8000/play/a00r
+#EXTINF:-1,ORF2K HD
+http://194.76.186.59:8000/play/a00q
+#EXTINF:-1,ORF2N HD
+http://194.76.186.59:8000/play/a01a
+#EXTINF:-1,ORF2O HD
+http://194.76.186.59:8000/play/a00s
+#EXTINF:-1,ORF2S HD
+http://194.76.186.59:8000/play/a00t
+#EXTINF:-1,ORF2St HD
+http://194.76.186.59:8000/play/a00p
+#EXTINF:-1,ORF2T HD
+http://194.76.186.59:8000/play/a00u
+#EXTINF:-1,ORF2V HD
+http://194.76.186.59:8000/play/a00v
+#EXTINF:-1,ORF2W HD
+http://194.76.186.59:8000/play/a017
+#EXTINF:-1,OTVA HD
+http://194.76.186.59:8000/play/a03f
+#EXTINF:-1,PULS 4 Austria
+http://194.76.186.59:8000/play/a01s
+#EXTINF:-1,Pro7 MAXX HD
+http://194.76.186.59:8000/play/a01g
+#EXTINF:-1,Pro7 MAXX HD Austria
+http://194.76.186.59:8000/play/a01k
+#EXTINF:-1,ProSieben Austria
+http://194.76.186.59:8000/play/a01n
+#EXTINF:-1,ProSieben HD
+http://194.76.186.59:8000/play/a01d
+#EXTINF:-1,ProSieben Schweiz
+http://194.76.186.59:8000/play/a01m
+#EXTINF:-1,QVC
+http://194.76.186.59:8000/play/a04b
+#EXTINF:-1,QVC HD
+http://194.76.186.59:8000/play/a04d
+#EXTINF:-1,QVC STYLE
+http://194.76.186.59:8000/play/a044
+#EXTINF:-1,QVC STYLE HD
+http://194.76.186.59:8000/play/a053
+#EXTINF:-1,QVC ZWEI HD
+http://194.76.186.59:8000/play/a04o
+#EXTINF:-1,R9 Oesterreich HD
+http://194.76.186.59:8000/play/a010
+#EXTINF:-1,RTL HD
+http://194.76.186.59:8000/play/a04s
+#EXTINF:-1,RTL HD Austria
+http://194.76.186.59:8000/play/a00k
+#EXTINF:-1,RTLZWEI HD
+http://194.76.186.59:8000/play/a04v
+#EXTINF:-1,RTLZWEI HD Austria
+http://194.76.186.59:8000/play/a00n
+#EXTINF:-1,RTLup HD
+http://194.76.186.59:8000/play/a04w
+#EXTINF:-1,Radio Bremen HD
+http://194.76.186.59:8000/play/a03r
+#EXTINF:-1,Radio Bremen TV
+http://194.76.186.59:8000/play/a05c
+#EXTINF:-1,Romance TV
+http://194.76.186.59:8000/play/a00j
+#EXTINF:-1,SAT.1 A
+http://194.76.186.59:8000/play/a01q
+#EXTINF:-1,SAT.1 CH
+http://194.76.186.59:8000/play/a01r
+#EXTINF:-1,SAT.1 Gold HD
+http://194.76.186.59:8000/play/a02l
+#EXTINF:-1,SAT.1 Gold HD Austria
+http://194.76.186.59:8000/play/a02n
+#EXTINF:-1,SAT.1 HD
+http://194.76.186.59:8000/play/a01c
+#EXTINF:-1,SAT.1 HH/SH
+http://194.76.186.59:8000/play/a01t
+#EXTINF:-1,SAT.1 NS/Bremen
+http://194.76.186.59:8000/play/a01u
+#EXTINF:-1,SAT.1 RhlPf/Hessen
+http://194.76.186.59:8000/play/a01v
+#EXTINF:-1,SIXX
+http://194.76.186.59:8000/play/a049
+#EXTINF:-1,SIXX HD
+http://194.76.186.59:8000/play/a01f
+#EXTINF:-1,SPORT1 HD
+http://194.76.186.59:8000/play/a04p
+#EXTINF:-1,SR Fernsehen
+http://194.76.186.59:8000/play/a05d
+#EXTINF:-1,SR Fernsehen HD
+http://194.76.186.59:8000/play/a03q
+#EXTINF:-1,SUPER RTL HD
+http://194.76.186.59:8000/play/a00m
+#EXTINF:-1,SWR BW HD
+http://194.76.186.59:8000/play/a03j
+#EXTINF:-1,SWR RP HD
+http://194.76.186.59:8000/play/a03k
+#EXTINF:-1,ServusTV HD Deutschland
+http://194.76.186.59:8000/play/a019
+#EXTINF:-1,ServusTV HD Oesterreich
+http://194.76.186.59:8000/play/a018
+#EXTINF:-1,ShopLC HD
+http://194.76.186.59:8000/play/a04f
+#EXTINF:-1,Sky Cinema Action
+http://194.76.186.59:8000/play/a00a
+#EXTINF:-1,Sky Cinema Action HD
+http://194.76.186.59:8000/play/a05f
+#EXTINF:-1,Sky Cinema Family HD
+http://194.76.186.59:8000/play/a00f
+#EXTINF:-1,Sky Cinema Fun HD
+http://194.76.186.59:8000/play/a05m
+#EXTINF:-1,Sky Comedy HD
+http://194.76.186.59:8000/play/a00b
+#EXTINF:-1,Sky Documentaries HD
+http://194.76.186.59:8000/play/a05n
+#EXTINF:-1,Sky Nature HD
+http://194.76.186.59:8000/play/a00c
+#EXTINF:-1,Sky News Intl
+http://194.76.186.59:8000/play/a02g
+#EXTINF:-1,Sky One HD
+http://194.76.186.59:8000/play/a00g
+#EXTINF:-1,Sky Sport 4 HD
+http://194.76.186.59:8000/play/a05l
+#EXTINF:-1,Sky Sport Bundesliga 4 HD
+http://194.76.186.59:8000/play/a05k
+#EXTINF:-1,Sky Sport F1 HD
+http://194.76.186.59:8000/play/a05o
+#EXTINF:-1,Sky Sport Mix HD
+http://194.76.186.59:8000/play/a05i
+#EXTINF:-1,Sky Sport Premier League HD
+http://194.76.186.59:8000/play/a05j
+#EXTINF:-1,Sky Sport Tennis
+http://194.76.186.59:8000/play/a00h
+#EXTINF:-1,Stimmungsgarten TV
+http://194.76.186.59:8000/play/a014
+#EXTINF:-1,TELE 5 HD
+http://194.76.186.59:8000/play/a028
+#EXTINF:-1,TELE 5 HD Austria
+http://194.76.186.59:8000/play/a02c
+#EXTINF:-1,TLC
+http://194.76.186.59:8000/play/a048
+#EXTINF:-1,TLC Austria
+http://194.76.186.59:8000/play/a020
+#EXTINF:-1,TLC HD
+http://194.76.186.59:8000/play/a04y
+#EXTINF:-1,TLC HD Austria
+http://194.76.186.59:8000/play/a054
+#EXTINF:-1,Universal TV HD
+http://194.76.186.59:8000/play/a05e
+#EXTINF:-1,VOX HD
+http://194.76.186.59:8000/play/a04t
+#EXTINF:-1,VOX HD Austria
+http://194.76.186.59:8000/play/a00l
+#EXTINF:-1,VOXup HD
+http://194.76.186.59:8000/play/a04x
+#EXTINF:-1,WDR Aachen
+http://194.76.186.59:8000/play/a02h
+#EXTINF:-1,WDR Bielefeld
+http://194.76.186.59:8000/play/a056
+#EXTINF:-1,WDR Bonn
+http://194.76.186.59:8000/play/a02j
+#EXTINF:-1,WDR Dortmund
+http://194.76.186.59:8000/play/a057
+#EXTINF:-1,WDR Duisburg
+http://194.76.186.59:8000/play/a02k
+#EXTINF:-1,WDR Düsseldorf
+http://194.76.186.59:8000/play/a058
+#EXTINF:-1,WDR Essen
+http://194.76.186.59:8000/play/a059
+#EXTINF:-1,WDR HD Aachen
+http://194.76.186.59:8000/play/a02q
+#EXTINF:-1,WDR HD Bielefeld
+http://194.76.186.59:8000/play/a02r
+#EXTINF:-1,WDR HD Bonn
+http://194.76.186.59:8000/play/a02s
+#EXTINF:-1,WDR HD Dortmund
+http://194.76.186.59:8000/play/a02t
+#EXTINF:-1,WDR HD Duisburg
+http://194.76.186.59:8000/play/a02u
+#EXTINF:-1,WDR HD Düsseldorf
+http://194.76.186.59:8000/play/a02v
+#EXTINF:-1,WDR HD Essen
+http://194.76.186.59:8000/play/a02w
+#EXTINF:-1,WDR HD Köln
+http://194.76.186.59:8000/play/a02p
+#EXTINF:-1,WDR HD Münster
+http://194.76.186.59:8000/play/a02x
+#EXTINF:-1,WDR HD Siegen
+http://194.76.186.59:8000/play/a02y
+#EXTINF:-1,WDR HD Wuppertal
+http://194.76.186.59:8000/play/a02z
+#EXTINF:-1,WDR Mediathek (Internet)
+http://194.76.186.59:8000/play/a030
+#EXTINF:-1,WDR Münster
+http://194.76.186.59:8000/play/a05a
+#EXTINF:-1,WDR Siegen
+http://194.76.186.59:8000/play/a05b
+#EXTINF:-1,WDR Wuppertal
+http://194.76.186.59:8000/play/a02i
+#EXTINF:-1,WELT HD
+http://194.76.186.59:8000/play/a04j
+#EXTINF:-1,WELT HD
+http://194.76.186.59:8000/play/a04g
+#EXTINF:-1,Warner TV Serie HD
+http://194.76.186.59:8000/play/a05g
+#EXTINF:-1,ZDF HD
+http://194.76.186.59:8000/play/a03l
+#EXTINF:-1,ZDFinfo HD
+http://194.76.186.59:8000/play/a041
+#EXTINF:-1,a.tv HD
+http://194.76.186.59:8000/play/a038
+#EXTINF:-1,a.tv HD .
+http://194.76.186.59:8000/play/a03b
+#EXTINF:-1,arte HD
+http://194.76.186.59:8000/play/a03i
+#EXTINF:-1,hr-fernsehen HD
+http://194.76.186.59:8000/play/a03y
+#EXTINF:-1,kabel eins HD
+http://194.76.186.59:8000/play/a01e
+#EXTINF:-1,kabel eins HD Austria
+http://194.76.186.59:8000/play/a01i
+#EXTINF:-1,krone.tv
+http://194.76.186.59:8000/play/a011
+#EXTINF:-1,mþnchen.tv HD
+http://194.76.186.59:8000/play/a039
+#EXTINF:-1,ntv HD
+http://194.76.186.59:8000/play/a04u
+#EXTINF:-1,oe24.TV HD
+http://194.76.186.59:8000/play/a012
+#EXTINF:-1,pearl.tv HD Shop
+http://194.76.186.59:8000/play/a02b
+#EXTINF:-1,pearl.tv Shop
+http://194.76.186.59:8000/play/a023
+#EXTINF:-1,phoenix HD
+http://194.76.186.59:8000/play/a037
+#EXTINF:-1,rbb Berlin HD
+http://194.76.186.59:8000/play/a03u
+#EXTINF:-1,rbb Brandenburg HD
+http://194.76.186.59:8000/play/a03t
+#EXTINF:-1,rfo Regional Fernsehen Oberbayern HD
+http://194.76.186.59:8000/play/a03a
+#EXTINF:-1,sixx HD Austria
+http://194.76.186.59:8000/play/a01j
+#EXTINF:-1,sonnenklar.TV HD
+http://194.76.186.59:8000/play/a027
+#EXTINF:-1,tagesschau24 HD
+http://194.76.186.59:8000/play/a03n
+#EXTINF:-1,tv.ingolstadt HD
+http://194.76.186.59:8000/play/a03c
+#EXTINF:-1,volksmusik
+http://194.76.186.59:8000/play/a013
+#EXTINF:-1,zdf_neo HD
+http://194.76.186.59:8000/play/a03m
