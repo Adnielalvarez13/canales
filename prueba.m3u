@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Channels",PAK: Ten Sports Pk
 http://cdn.geoiptv.org:2052/live/65938972/96486101/179011.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Tamil Infotainment",Aladdin 2 - O Regresso de Jafar (1994)
+http://cdn.geoiptv.org:2052/movie/65938972/96486101/573492.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Tamil Infotainment",Aladdin 2 - O Regresso de Jafar (1994)
+http://cdn.geoiptv.org:2052/movie/65938972/96486101/573492.mkv
