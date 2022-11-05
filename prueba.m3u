@@ -1,159 +1,21 @@
 #EXTM3U
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",Bein Sport 1
-http://162.19.154.135:8000/play/bein1/index.m3u8
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",Bein Sport 2
-http://162.19.154.135:8000/play/a001/index.m3u8
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",Bein Sport 3
-http://162.19.154.135:8000/play/a002/index.m3u8
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",Bein Sport 4
-http://162.19.154.135:8000/play/a003/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport 4K
-http://162.19.154.135:8000/play/a005/index.m3u8
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",Bein Sport 5
-http://162.19.154.135:8000/play/a004/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Exxen Sports 1
-http://162.19.154.135:8000/play/a006/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Exxen Sports 2
-http://162.19.154.135:8000/play/a007/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Exxen Sports 3
-http://162.19.154.135:8000/play/a008/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Exxen Sports 4
-http://162.19.154.135:8000/play/a009/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Exxen Sports 5
-http://162.19.154.135:8000/play/a00a/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Exxen Sports 6
-http://162.19.154.135:8000/play/a00b/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Exxen Sports 7
-http://162.19.154.135:8000/play/a00c/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Exxen Sports 8
-http://162.19.154.135:8000/play/a00d/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",(DE) SKY SPORT 1
-http://103.166.183.78:12345/play/skysport1
-#EXTINF:0 tvg-id="ext" group-title="Channels",(DE) SKY SPORT 10
-http://103.166.183.78:12345/play/skySP10
-#EXTINF:0 tvg-id="ext" group-title="Channels",(DE) SKY SPORT 3
-http://103.166.183.78:12345/play/skysport3
-#EXTINF:0 tvg-id="ext" group-title="Channels",(DE) SKY SPORT 4
-http://103.166.183.78:12345/play/a02e
-#EXTINF:0 tvg-id="ext" group-title="Channels",(DE) SKY SPORT 5
-http://103.166.183.78:12345/play/skySP5
-#EXTINF:0 tvg-id="ext" group-title="Channels",(DE) SKY SPORT 6
-http://103.166.183.78:12345/play/skySP6
-#EXTINF:0 tvg-id="ext" group-title="Channels",(DE) SKY SPORT 7
-http://103.166.183.78:12345/play/skySP7
-#EXTINF:0 tvg-id="ext" group-title="Channels",(DE) SKY SPORT 8
-http://103.166.183.78:12345/play/skySP8
-#EXTINF:0 tvg-id="ext" group-title="Channels",(DE) SKY SPORT 9
-http://103.166.183.78:12345/play/skySP9
-#EXTINF:0 tvg-id="ext" group-title="Channels",(DE) Sky Bundesliga 1
-http://103.166.183.78:12345/play/bundesliga1
-#EXTINF:0 tvg-id="ext" group-title="Channels",(DE) Sky Bundesliga 2
-http://103.166.183.78:12345/play/skybundes2
-#EXTINF:0 tvg-id="ext" group-title="Channels",(DE) Sky Bundesliga 3
-http://103.166.183.78:12345/play/bundesliga3
-#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) EURONEWS HD
-http://103.166.183.78:12345/play/eurogr
-#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) COSMOTE CINEMA 3
-http://103.166.183.78:12345/play/cosmomcinema3
-#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) COSMOTE Sport 1 HD
-http://103.166.183.78:12345/play/cmt1
-#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) COSMOTE Sport 4 HD
-http://103.166.183.78:12345/play/cmt4
-#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) COSMOTE Sport 5 HD
-http://103.166.183.78:12345/play/cmt5
-#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) COSMOTE Sport 6 HD
-http://103.166.183.78:12345/play/cmt6
-#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) COSMOTE Sport 7 HD
-http://103.166.183.78:12345/play/cmt7
-#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) COSMOTE Sport 8 HD
-http://103.166.183.78:12345/play/cmt8
-#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) COSMOTE Sport 9 HD
-http://103.166.183.78:12345/play/cms9
-#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) COSMOTE Sport Hihglight
-http://103.166.183.78:12345/play/cosmotehighli
-#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) NOVA SPORTS 1
-http://103.166.183.78:12345/play/ns1
-#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) NOVA SPORTS 2
-http://103.166.183.78:12345/play/ns2
-#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) NOVA SPORTS 3
-http://103.166.183.78:12345/play/ns3
-#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) NOVA SPORTS 4
-http://103.166.183.78:12345/play/ns4
-#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) NOVA SPORTS 5
-http://103.166.183.78:12345/play/ns5
-#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) NOVA SPORTS PRIME
-http://103.166.183.78:12345/play/nsprime
-#EXTINF:0 tvg-id="ext" group-title="Channels",(SP) BEIN EXTRA
-http://103.166.183.78:12345/play/beinextrasp
-#EXTINF:0 tvg-id="ext" group-title="Channels",(SP) M. La Liga
-http://103.166.183.78:12345/play/a02g
-#EXTINF:0 tvg-id="ext" group-title="Channels",(SP) M. Liga de Campeones
-http://103.166.183.78:12345/play/a00g
-#EXTINF:0 tvg-id="ext" group-title="Channels",(SP) M. Liga de Campeones 2 HD
-http://103.166.183.78:12345/play/mlaliga2
-#EXTINF:0 tvg-id="ext" group-title="Channels",(SP) M. Liga de Campeones 3 HD
-http://103.166.183.78:12345/play/mlaliga1
-#EXTINF:0 tvg-id="ext" group-title="Channels",(SP) SKY LA LIGA
-http://103.166.183.78:12345/play/skysportsespa
-#EXTINF:0 tvg-id="ext" group-title="Channels",(SP) SKY PREMIER LEAGUE
-http://103.166.183.78:12345/play/skyprling
-#EXTINF:0 tvg-id="ext" group-title="Channels",(UK )BEIN SPORT
-http://103.166.183.78:12345/play/beinuk
-#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",(UK) SKY SPORTS F1
-http://103.166.183.78:12345/play/f1en
-#EXTINF:0 tvg-id="ext" group-title="Channels",(UK) BT Sport 1 HD
-http://103.166.183.78:12345/play/btsport1
-#EXTINF:0 tvg-id="ext" group-title="Channels",(UK) BT Sport 2 HD
-http://103.166.183.78:12345/play/btsport2
-#EXTINF:0 tvg-id="ext" group-title="Channels",(UK) BT Sport 3 HD
-http://103.166.183.78:12345/play/a029
-#EXTINF:0 tvg-id="ext" group-title="Channels",(UK) Premier Sports 1
-http://103.166.183.78:12345/play/premiersport1
-#EXTINF:0 tvg-id="ext" group-title="Channels",(UK) Premier Sports 2
-http://103.166.183.78:12345/play/premsport
-#EXTINF:0 tvg-id="ext" group-title="Channels",(UK) SKY SPORTS MIX FHD
-http://103.166.183.78:12345/play/skysportmix
-#EXTINF:0 tvg-id="ext" group-title="Channels",(UK) SKY SPORTS MIX HD
-http://103.166.183.78:12345/play/skyeventmix
-#EXTINF:0 tvg-id="ext" group-title="Channels",(UK) SKY SPORTS PREMIER LEAGUE FHD
-http://103.166.183.78:12345/play/skysportspreimli
-#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",(UK) Sky Sports F1
-http://103.166.183.78:12345/play/skyf1uk
-#EXTINF:0 tvg-id="ext" group-title="Channels",(UK) Sky Sports Football
-http://103.166.183.78:12345/play/skyuk
-#EXTINF:0 tvg-id="ext" group-title="Channels",(UK) Sky Sports Main Event
-http://103.166.183.78:12345/play/skyevent
-#EXTINF:0 tvg-id="ext" group-title="Channels",(UK) Sport1+ HD
-http://103.166.183.78:12345/play/sport1ex
-#EXTINF:0 tvg-id="ext" group-title="Channels",4K EVENT
-http://103.166.183.78:12345/play/a028
-#EXTINF:0 tvg-id="ext" group-title="Channels",BT SPORT UHD
-http://103.166.183.78:12345/play/btuhd
-#EXTINF:0 tvg-id="ext" group-title="Channels",Feed
-http://103.166.183.78:12345/play/test
-#EXTINF:0 tvg-id="ext" group-title="Channels",K+ SPORT 1
-http://103.166.183.78:12345/play/keo1
-#EXTINF:0 tvg-id="match" group-title="Channels",Match TV
-http://103.166.183.78:12345/play/match
-#EXTINF:0 tvg-id="ext" group-title="Channels",OBS.LIVESTREAM
-http://103.166.183.78:12345/play/1
-#EXTINF:0 tvg-id="ext" group-title="Channels",On Sports News
-http://103.166.183.78:12345/play/a02j
-#EXTINF:0 tvg-id="ext" group-title="Channels",Polsat Premium 1
-http://103.166.183.78:12345/play/polsatpre1
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY EPL
-http://103.166.183.78:12345/play/a00f
-#EXTINF:0 tvg-id="SkySportsF1.uk" group-title="Channels",SKY F1
-http://103.166.183.78:12345/play/skyf1
-#EXTINF:0 tvg-id="SkySportUHD.de" group-title="Channels",SKY SPORT UHD
-http://103.166.183.78:12345/play/a00o
-#EXTINF:0 tvg-id="ext" group-title="Channels",Setanta + HD UA
-http://103.166.183.78:12345/play/sentana
-#EXTINF:0 tvg-id="ext" group-title="Channels",Setanta UA
-http://103.166.183.78:12345/play/a02h
-#EXTINF:0 tvg-id="ext" group-title="Channels",Setanta Ukraine 1
-http://103.166.183.78:12345/play/setantaua
-#EXTINF:0 tvg-id="ext" group-title="Channels",Setanta Ukraine 2
-http://103.166.183.78:12345/play/setanta2
-#EXTINF:0 tvg-id="sportdigital.de" group-title="Channels",Sportdigital
-http://103.166.183.78:12345/play/a02i
+#EXTINF:0 tvg-id="ext" group-title="Channels",Erotic
+http://45.137.152.196:4022/udp/239.1.1.1:1234
+#EXTINF:0 tvg-id="PinkErotic2.rs" group-title="Channels",Erotic 2
+http://45.137.152.196:4022/udp/239.2.2.2:1234
+#EXTINF:0 tvg-id="PinkErotic3.rs" group-title="Channels",Erotic 3
+http://45.137.152.196:4022/udp/239.3.3.3:1234
+#EXTINF:0 tvg-id="PinkErotic4.rs" group-title="Channels",Erotic 4
+http://45.137.152.196:4022/udp/239.4.4.4:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",Erotic 5
+http://45.137.152.196:4022/udp/239.5.5.5:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",Erotic 6
+http://45.137.152.196:4022/udp/239.6.6.6:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",Erotic 7
+http://45.137.152.196:4022/udp/239.7.7.7:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",Erotic 8
+http://45.137.152.196:4022/udp/239.8.8.8:1234
+#EXTINF:0 tvg-id="Dorcel.ero" group-title="Channels",Dorcel HD
+http://45.137.152.196:4022/udp/239.9.9.9:1234
+#EXTINF:0 tvg-id="Dorcel.ero" group-title="Channels",Dorcel XXX HD
+http://45.137.152.196:4022/udp/239.10.10.10:1234
