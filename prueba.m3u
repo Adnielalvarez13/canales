@@ -1,7 +1,77 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",PAK: Ten Sports Pk
-http://cdn.geoiptv.org:2052/live/65938972/96486101/179011.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Tamil Infotainment",Aladdin 2 - O Regresso de Jafar (1994)
-http://cdn.geoiptv.org:2052/movie/65938972/96486101/573492.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Tamil Infotainment",Aladdin 2 - O Regresso de Jafar (1994)
-http://cdn.geoiptv.org:2052/movie/65938972/96486101/573492.mkv
+#EXTINF:-1,BEIN SPORTS 1
+http://90.166.42.65:8182/play/a020
+#EXTINF:-1,BEIN SPORTS 2
+http://90.166.42.65:8182/play/a00i
+#EXTINF:-1,BEIN SPORTS 3
+http://90.166.42.65:8182/play/a00j
+#EXTINF:-1,CANAL+
+http://90.166.42.65:8182/play/a014
+#EXTINF:-1,CANAL+CINEMA
+http://90.166.42.65:8182/play/a015
+#EXTINF:-1,CANAL+SPORT
+http://90.166.42.65:8182/play/a016
+#EXTINF:-1,CANAL+SPORT360
+http://90.166.42.65:8182/play/a01s
+#EXTINF:-1,CARTOON NETWORK
+http://90.166.42.65:8182/play/a01x
+#EXTINF:-1,CINE+ CLASSIC
+http://90.166.42.65:8182/play/a01b
+#EXTINF:-1,CINE+ CLUB
+http://90.166.42.65:8182/play/a00g
+#EXTINF:-1,CINE+ EMOTION
+http://90.166.42.65:8182/play/a01w
+#EXTINF:-1,CINE+ FAMIZ
+http://90.166.42.65:8182/play/a01a
+#EXTINF:-1,CINE+ FRISSON
+http://90.166.42.65:8182/play/a019
+#EXTINF:-1,CINE+ PREMIER
+http://90.166.42.65:8182/play/a01u
+#EXTINF:-1,DISNEY CHANNEL+1
+http://90.166.42.65:8182/play/a01l
+#EXTINF:-1,DISNEY JUNIOR
+http://90.166.42.65:8182/play/a00w
+#EXTINF:-1,DISNEY+
+http://90.166.42.65:8182/play/a00m
+#EXTINF:-1,EUROSPORT 1
+http://90.166.42.65:8182/play/a01z
+#EXTINF:-1,EUROSPORT 2
+http://90.166.42.65:8182/play/a01j
+#EXTINF:-1,EXTREMADURA SAT
+http://90.166.42.65:8182/play/a02i
+#EXTINF:-1,LCI HD
+http://90.166.42.65:8182/play/a02h
+#EXTINF:-1,NICKELODEON JUNIOR
+http://90.166.42.65:8182/play/a010
+#EXTINF:-1,NICKELODEON TEEN
+http://90.166.42.65:8182/play/a00s
+#EXTINF:-1,NICKELODEON+1
+http://90.166.42.65:8182/play/a00h
+#EXTINF:-1,PIWI+
+http://90.166.42.65:8182/play/a01d
+#EXTINF:-1,PLANETE+CRIME
+http://90.166.42.65:8182/play/a01m
+#EXTINF:-1,POLAR+
+http://90.166.42.65:8182/play/a00q
+#EXTINF:-1,SERIE CLUB
+http://90.166.42.65:8182/play/a012
+#EXTINF:-1,TELETOON+
+http://90.166.42.65:8182/play/a01o
+#EXTINF:-1,TELETOON+1
+http://90.166.42.65:8182/play/a01p
+#EXTINF:-1,TF1 HD
+http://90.166.42.65:8182/play/a02d
+#EXTINF:-1,TF1 Series Film HD
+http://90.166.42.65:8182/play/a02e
+#EXTINF:-1,TFX HD
+http://90.166.42.65:8182/play/a02g
+#EXTINF:-1,TMC HD
+http://90.166.42.65:8182/play/a02f
+#EXTINF:-1,TV BREIZH
+http://90.166.42.65:8182/play/a024
+#EXTINF:-1,TVGA HD EUROPA
+http://90.166.42.65:8182/play/a02j
+#EXTINF:-1,USHUAIA TV
+http://90.166.42.65:8182/play/a01v
+#EXTINF:-1,WARNER TV
+http://90.166.42.65:8182/play/a00o
