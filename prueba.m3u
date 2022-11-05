@@ -1,197 +1,289 @@
 #EXTM3U
-#EXTINF:0 tvg-id="Tele5.pl" group-title="Channels",TELE 5
-http://176.66.78.12:8000/play/tele5a01f
-#EXTINF:0 tvg-id="70sHits.us" group-title="Channels",70s Hits
-http://190.43.92.37:8000/play/a0lw/index.m3u8
-#EXTINF:0 tvg-id="80sHits.us" group-title="Channels",80s Hits
-http://190.43.92.37:8000/play/a0lx/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE Mundo
-http://190.43.92.37:8000/play/a0lq/index.m3u8
-#EXTINF:0 tvg-id="ATV.am" group-title="Channels",ATV
-http://190.43.92.37:8000/play/a0mi/index.m3u8
-#EXTINF:0 tvg-id="America2.ar" group-title="Channels",America TV HD
-http://190.43.92.37:8000/play/a0h6/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",America TV PY
-http://190.43.92.37:8000/play/a0mn/index.m3u8
-#EXTINF:0 tvg-id="America2.ar" group-title="Channels",AmericaTV
-http://190.43.92.37:8000/play/a0mg/index.m3u8
-#EXTINF:0 tvg-id="animal_rus" group-title="Channels",Animal Planet
-http://190.43.92.37:8000/play/a0lh/index.m3u8
-#EXTINF:0 tvg-id="animal-hd" group-title="Channels",Animal Planet HD
-http://190.43.92.37:8000/play/a0jl/index.m3u8
-#EXTINF:0 tvg-id="Babyfirstenglish.hu" group-title="Channels",BabyFirst
-http://190.43.92.37:8000/play/a0kr/index.m3u8
-#EXTINF:0 tvg-id="CNNChile.cl" group-title="Channels",CNN Chile
-http://190.43.92.37:8000/play/a0kh/index.m3u8
-#EXTINF:0 tvg-id="CNNEspanol.cl" group-title="Channels",CNN Espanol
-http://190.43.92.37:8000/play/a0kv/index.m3u8
-#EXTINF:0 tvg-id="CanalEstrellas.sp" group-title="Channels",Canal Estrellas
-http://190.43.92.37:8000/play/a0m4/index.m3u8
-#EXTINF:0 tvg-id="cartoon" group-title="Channels",Cartoon Network
-http://190.43.92.37:8000/play/a0kk/index.m3u8
-#EXTINF:0 tvg-id="cartoon" group-title="Channels",Cartoon Network HD
-http://190.43.92.37:8000/play/a0je/index.m3u8
-#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Channels",Cinecanal
-http://190.43.92.37:8000/play/a0kc/index.m3u8
-#EXTINF:0 tvg-id="CinecanalHD.mx" group-title="Channels",Cinecanal HD
-http://190.43.92.37:8000/play/a0j5/index.m3u8
-#EXTINF:0 tvg-id="CineMAX.ro" group-title="Channels",Cinemax HD
-http://190.43.92.37:8000/play/a0k4/index.m3u8
-#EXTINF:0 tvg-id="ClaroSports.mx" group-title="Channels",Claro Sports
-http://190.43.92.37:8000/play/a0km/index.m3u8
-#EXTINF:0 tvg-id="ClassicRock.us" group-title="Channels",Classic Rock
-http://190.43.92.37:8000/play/a0lv/index.m3u8
-#EXTINF:0 tvg-id="discov_rus" group-title="Channels",Discovery Channel
-http://190.43.92.37:8000/play/a0lg/index.m3u8
-#EXTINF:0 tvg-id="id-extra" group-title="Channels",Discovery ID
-http://190.43.92.37:8000/play/a0m9/index.m3u8
-#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Channels",Discovery Kids
-http://190.43.92.37:8000/play/a0ku/index.m3u8
-#EXTINF:0 tvg-id="DiscoveryKidsHD.pe" group-title="Channels",Discovery Kids HD
-http://190.43.92.37:8000/play/a0ia/index.m3u8
-#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Channels",Discovery Theater HD
-http://190.43.92.37:8000/play/a0ic/index.m3u8
-#EXTINF:0 tvg-id="disney" group-title="Channels",Disney Channel
-http://190.43.92.37:8000/play/a0lf/index.m3u8
-#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",Disney Jr
-http://190.43.92.37:8000/play/a0l7/index.m3u8
-#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",Disney Junior HD
-http://190.43.92.37:8000/play/a0k1/index.m3u8
-#EXTINF:0 tvg-id="E.mx" group-title="Channels",E Entertainment
-http://190.43.92.37:8000/play/a0lj/index.m3u8
-#EXTINF:0 tvg-id="E.uk" group-title="Channels",E! HD
-http://190.43.92.37:8000/play/a0h3/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="Channels",ESPN
-http://190.43.92.37:8000/play/a0lm/index.m3u8
-#EXTINF:0 tvg-id="ESPN2.mx" group-title="Channels",ESPN 2
-http://190.43.92.37:8000/play/a0la/index.m3u8
-#EXTINF:0 tvg-id="ESPN2.us" group-title="Channels",ESPN 2 HD
-http://190.43.92.37:8000/play/a0k2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 Latin
-http://190.43.92.37:8000/play/a0ll/index.m3u8
-#EXTINF:0 tvg-id="ESPN4.nl" group-title="Channels",ESPN 4
-http://190.43.92.37:8000/play/a0mj/index.m3u8
-#EXTINF:0 tvg-id="ESPN4.br" group-title="Channels",ESPN 4 HD
-http://190.43.92.37:8000/play/a0ih/index.m3u8
-#EXTINF:0 tvg-id="ElGourmetHD.cl" group-title="Channels",El Gourmet HD
-http://190.43.92.37:8000/play/a0k7/index.m3u8
-#EXTINF:0 tvg-id="Enlace.us" group-title="Channels",Enlace
-http://190.43.92.37:8000/play/a0kp/index.m3u8
-#EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="Channels",FOX Sports 2 HD
-http://190.43.92.37:8000/play/a0ii/index.m3u8
-#EXTINF:0 tvg-id="FXHD.mx" group-title="Channels",FX HD
-http://190.43.92.37:8000/play/a0ip/index.m3u8
-#EXTINF:0 tvg-id="food-network-rus" group-title="Channels",Food Network HD
-http://190.43.92.37:8000/play/a0h5/index.m3u8
-#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Channels",Fox Sports 2
-http://190.43.92.37:8000/play/a0m5/index.m3u8
-#EXTINF:0 tvg-id="FoxSports3.mx" group-title="Channels",Fox Sports 3
-http://190.43.92.37:8000/play/a0m6/index.m3u8
-#EXTINF:0 tvg-id="france24" group-title="Channels",France 24
-http://190.43.92.37:8000/play/a0ma/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GOLPERU HD
-http://190.43.92.37:8000/play/a0h9/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GolTV HD
-http://190.43.92.37:8000/play/a0h4/index.m3u8
-#EXTINF:0 tvg-id="GoldenHD.mx" group-title="Channels",Golden HD
-http://190.43.92.37:8000/play/a0gz/index.m3u8
-#EXTINF:0 tvg-id="HBO2.cz" group-title="Channels",HBO 2
-http://190.43.92.37:8000/play/a0l3/index.m3u8
-#EXTINF:0 tvg-id="HBO2.pl" group-title="Channels",HBO 2 HD
-http://190.43.92.37:8000/play/a0jk/index.m3u8
-#EXTINF:0 tvg-id="Hbofamily.br" group-title="Channels",HBO Family
-http://190.43.92.37:8000/play/a0l6/index.m3u8
-#EXTINF:0 tvg-id="Hboplus.br" group-title="Channels",HBO Plus
-http://190.43.92.37:8000/play/a0l4/index.m3u8
-#EXTINF:0 tvg-id="Maxprime.br" group-title="Channels",HBO XTREME SD
-http://190.43.92.37:8000/play/a0l5/index.m3u8
-#EXTINF:0 tvg-id="history-rus" group-title="Channels",History Channel
-http://190.43.92.37:8000/play/a0kb/index.m3u8
-#EXTINF:0 tvg-id="HomeHealth.mx" group-title="Channels",HomeandHealth
-http://190.43.92.37:8000/play/a0me/index.m3u8
-#EXTINF:0 tvg-id="ISat.ar" group-title="Channels",I-Sat
-http://190.43.92.37:8000/play/a0ke/index.m3u8
-#EXTINF:0 tvg-id="Latina.pe" group-title="Channels",Latina
-http://190.43.92.37:8000/play/a0mf/index.m3u8
-#EXTINF:0 tvg-id="Latina.pe" group-title="Channels",Latina HD
-http://190.43.92.37:8000/play/a0h7/index.m3u8
-#EXTINF:0 tvg-id="Lifetime.uk" group-title="Channels",Lifetime
-http://190.43.92.37:8000/play/a0ks/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Love Music
-http://190.43.92.37:8000/play/a0lu/index.m3u8
-#EXTINF:0 tvg-id="mtv-rus" group-title="Channels",MTV
-http://190.43.92.37:8000/play/a0kf/index.m3u8
-#EXTINF:0 tvg-id="mtvlive-hd" group-title="Channels",MTV LIVE HD
-http://190.43.92.37:8000/play/a0ig/index.m3u8
-#EXTINF:0 tvg-id="M.Deportes.es" group-title="Channels",Movistar Deportes HD
-http://190.43.92.37:8000/play/a0gy/index.m3u8
-#EXTINF:0 tvg-id="natgeo" group-title="Channels",Nat Geo
-http://190.43.92.37:8000/play/a0ka/index.m3u8
-#EXTINF:0 tvg-id="natgeo_hd" group-title="Channels",Nat Geo HD
-http://190.43.92.37:8000/play/a0j3/index.m3u8
-#EXTINF:0 tvg-id="NewAge.us" group-title="Channels",New Age
-http://190.43.92.37:8000/play/a0lt/index.m3u8
-#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Channels",Nickelodeon
-http://190.43.92.37:8000/play/a0k9/index.m3u8
-#EXTINF:0 tvg-id="PanamericanaTV.pe" group-title="Channels",Panamericana TV
-http://190.43.92.37:8000/play/a0mh/index.m3u8
-#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="Channels",Paramount HD
-http://190.43.92.37:8000/play/a0jf/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Pasiones HD
-http://190.43.92.37:8000/play/a0js/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RCN Novelas
-http://190.43.92.37:8000/play/a0m8/index.m3u8
-#EXTINF:0 tvg-id="Reggae.us" group-title="Channels",Reggae
-http://190.43.92.37:8000/play/a0ly/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Reggaeton
-http://190.43.92.37:8000/play/a0lz/index.m3u8
-#EXTINF:0 tvg-id="RegionalMexican.us" group-title="Channels",Regional Mexican
-http://190.43.92.37:8000/play/a0m1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rock Latino
-http://190.43.92.37:8000/play/a0m0/index.m3u8
-#EXTINF:0 tvg-id="otr" group-title="Channels",STAR CHANNEL
-http://190.43.92.37:8000/play/a0ki/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",STAR CHANNEL HD
-http://190.43.92.37:8000/play/a0ie/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sin Limites
-http://190.43.92.37:8000/play/a0mm/index.m3u8
-#EXTINF:0 tvg-id="StudioUniversal.it" group-title="Channels",Studio Universal
-http://190.43.92.37:8000/play/a0l9/index.m3u8
-#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",SyFy
-http://190.43.92.37:8000/play/a0kt/index.m3u8
-#EXTINF:0 tvg-id="Symphonic.us" group-title="Channels",Symphonic
-http://190.43.92.37:8000/play/a0ls/index.m3u8
-#EXTINF:0 tvg-id="24dok" group-title="Channels",TBS
-http://190.43.92.37:8000/play/a0mc/index.m3u8
-#EXTINF:0 tvg-id="TCM.uk" group-title="Channels",TCM
-http://190.43.92.37:8000/play/a0kj/index.m3u8
-#EXTINF:0 tvg-id="tlc-russia" group-title="Channels",TLC
-http://190.43.92.37:8000/play/a0m2/index.m3u8
-#EXTINF:0 tvg-id="tnt" group-title="Channels",TNT
-http://190.43.92.37:8000/play/a0kl/index.m3u8
-#EXTINF:0 tvg-id="tnt" group-title="Channels",TNT HD
-http://190.43.92.37:8000/play/a0jv/index.m3u8
-#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Channels",TNT Series HD
-http://190.43.92.37:8000/play/a0io/index.m3u8
-#EXTINF:0 tvg-id="TVPeru.pe" group-title="Channels",TV Peru
-http://190.43.92.37:8000/play/a0mk/index.m3u8
-#EXTINF:0 tvg-id="TVE.se" group-title="Channels",TVE
-http://190.43.92.37:8000/play/a0kq/index.m3u8
-#EXTINF:0 tvg-id="TelehitHD.mx" group-title="Channels",Telehit HD
-http://190.43.92.37:8000/play/a0h0/index.m3u8
-#EXTINF:0 tvg-id="Telemundo.mx" group-title="Channels",Telemundo
-http://190.43.92.37:8000/play/a0m7/index.m3u8
-#EXTINF:0 tvg-id="TyCSports.ar" group-title="Channels",TyC
-http://190.43.92.37:8000/play/a0lo/index.m3u8
-#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",UNIVERSAL CHANNEL HD
-http://190.43.92.37:8000/play/a0if/index.m3u8
-#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",Universal
-http://190.43.92.37:8000/play/a0kd/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ViaX
-http://190.43.92.37:8000/play/a0m3/index.m3u8
-#EXTINF:0 tvg-id="Willax.pe" group-title="Channels",WILLAX
-http://190.43.92.37:8000/play/a0md/index.m3u8
-#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Channels",Warner
-http://190.43.92.37:8000/play/a0li/index.m3u8
-#EXTINF:0 tvg-id="ZonaLatina.cl" group-title="Channels",Zona Latina
-http://190.43.92.37:8000/play/a0kg/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24 Mix Teleshop
+http://188.241.32.110:8000/play/a02r/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",A7
+http://188.241.32.110:8000/play/a03f/index.m3u8
+#EXTINF:0 tvg-id="Acasa.ro" group-title="Channels",ACASA
+http://188.241.32.110:8000/play/a03u/index.m3u8
+#EXTINF:0 tvg-id="AXNhd.es" group-title="Channels",AXN
+http://188.241.32.110:8000/play/a01b/index.m3u8
+#EXTINF:0 tvg-id="AXNBlack.pt" group-title="Channels",AXN Black
+http://188.241.32.110:8000/play/a01d/index.m3u8
+#EXTINF:0 tvg-id="AXNhd.es" group-title="Channels",AXN HD
+http://188.241.32.110:8000/play/a03o/index.m3u8
+#EXTINF:0 tvg-id="axn" group-title="Channels",AXN Spin
+http://188.241.32.110:8000/play/a01e/index.m3u8
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="Channels",AXN White
+http://188.241.32.110:8000/play/a01c/index.m3u8
+#EXTINF:0 tvg-id="agro-tv" group-title="Channels",Agro TV
+http://188.241.32.110:8000/play/agro/index.m3u8
+#EXTINF:0 tvg-id="AlephNews.ro" group-title="Channels",Aleph News
+http://188.241.32.110:8000/play/a00m/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Aleph News HD
+http://188.241.32.110:8000/play/aleph/index.m3u8
+#EXTINF:0 tvg-id="AlfaOmegaTV.ro" group-title="Channels",Alfa & Omega
+http://188.241.32.110:8000/play/a02n/index.m3u8
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Channels",Animal Planet
+http://188.241.32.110:8000/play/a01r/index.m3u8
+#EXTINF:0 tvg-id="Antena1.ro" group-title="Channels",Antena 1
+http://188.241.32.110:8000/play/a00u/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Antena 1 HD
+http://188.241.32.110:8000/play/a02u/index.m3u8
+#EXTINF:0 tvg-id="Antena3.es" group-title="Channels",Antena 3
+http://188.241.32.110:8000/play/a00i/index.m3u8
+#EXTINF:0 tvg-id="Antena3.es" group-title="Channels",Antena 3 HD
+http://188.241.32.110:8000/play/a02w/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Antena Star
+http://188.241.32.110:8000/play/a01i/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Antena Stars HD
+http://188.241.32.110:8000/play/a034/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ardeal TV
+http://188.241.32.110:8000/play/ardealtv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Atomic TV
+http://188.241.32.110:8000/play/atomictv/index.m3u8
+#EXTINF:0 tvg-id="B1TV.ro" group-title="Channels",B1 TV
+http://188.241.32.110:8000/play/a00l/index.m3u8
+#EXTINF:0 tvg-id="Balkanika.bg" group-title="Channels",Balkanika
+http://188.241.32.110:8000/play/a02d/index.m3u8
+#EXTINF:0 tvg-id="BollywoodTV.ro" group-title="Channels",Bollywood TV
+http://188.241.32.110:8000/play/a01f/index.m3u8
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="Channels",Boomerang
+http://188.241.32.110:8000/play/a01w/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bucovina TV
+http://188.241.32.110:8000/play/a00b/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Busuioc TV
+http://188.241.32.110:8000/play/a029/index.m3u8
+#EXTINF:0 tvg-id="CBSReality.eu" group-title="Channels",CBS Reality
+http://188.241.32.110:8000/play/a01m/index.m3u8
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="Channels",Cartoon Network
+http://188.241.32.110:8000/play/a020/index.m3u8
+#EXTINF:0 tvg-id="Cinethronix.ro" group-title="Channels",Cinethronix
+http://188.241.32.110:8000/play/a01u/index.m3u8
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="Channels",Comedy Central
+http://188.241.32.110:8000/play/a01n/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Credo
+http://188.241.32.110:8000/play/a02f/index.m3u8
+#EXTINF:0 tvg-id="CrimeAndInvestigationNetwork.uk" group-title="Channels",Crime & Investigation
+http://188.241.32.110:8000/play/a01t/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cromtel HD
+http://188.241.32.110:8000/play/a00f/index.m3u8
+#EXTINF:0 tvg-id="Digi24.ro" group-title="Channels",DIGI 24
+http://188.241.32.110:8000/play/a03y/index.m3u8
+#EXTINF:0 tvg-id="da_vinci-rus" group-title="Channels",Da Vinci Learning
+http://188.241.32.110:8000/play/a02j/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Darmir TV
+http://188.241.32.110:8000/play/a03q/index.m3u8
+#EXTINF:0 tvg-id="Digi24.ro" group-title="Channels",Digi 24
+http://188.241.32.110:8000/play/a015/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="Channels",Discovery Channel
+http://188.241.32.110:8000/play/a01p/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="Channels",Discovery Science
+http://188.241.32.110:8000/play/a01q/index.m3u8
+#EXTINF:0 tvg-id="DisneyChannel.es" group-title="Channels",Disney Channel
+http://188.241.32.110:8000/play/a021/index.m3u8
+#EXTINF:0 tvg-id="DisneyJr.es" group-title="Channels",Disney Jr
+http://188.241.32.110:8000/play/a022/index.m3u8
+#EXTINF:0 tvg-id="DivaUniversal.ro" group-title="Channels",Diva Universal
+http://188.241.32.110:8000/play/a01a/index.m3u8
+#EXTINF:0 tvg-id="E.uk" group-title="Channels",E! Entertainment
+http://188.241.32.110:8000/play/a02i/index.m3u8
+#EXTINF:0 tvg-id="EPICDramaHD.pl" group-title="Channels",Epic Drama
+http://188.241.32.110:8000/play/a03i/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Etno TV HD
+http://188.241.32.110:8000/play/a026/index.m3u8
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="Channels",Eurosport 2
+http://188.241.32.110:8000/play/a003/index.m3u8
+#EXTINF:0 tvg-id="EurosportHD.es" group-title="Channels",Eurosport HD
+http://188.241.32.110:8000/play/a038/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Favorit
+http://188.241.32.110:8000/play/a027/index.m3u8
+#EXTINF:0 tvg-id="FilmCafe.hu" group-title="Channels",Film Cafe
+http://188.241.32.110:8000/play/a018/index.m3u8
+#EXTINF:0 tvg-id="FishingHunting.hu" group-title="Channels",Fishing & Hunting
+http://188.241.32.110:8000/play/a02x/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gurinel HD
+http://188.241.32.110:8000/play/a01x/index.m3u8
+#EXTINF:0 tvg-id="happytv.sr" group-title="Channels",Happy
+http://188.241.32.110:8000/play/a01j/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Happy HD
+http://188.241.32.110:8000/play/a035/index.m3u8
+#EXTINF:0 tvg-id="HitMusic.hu" group-title="Channels",Hit Music
+http://188.241.32.110:8000/play/a02l/index.m3u8
+#EXTINF:0 tvg-id="IDATV.ro" group-title="Channels",IDA TV
+http://188.241.32.110:8000/play/a02g/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Iasi TV Life
+http://188.241.32.110:8000/play/a00a/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Inedit
+http://188.241.32.110:8000/play/a02a/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Infinit TV
+http://188.241.32.110:8000/play/a00r/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Intermedia
+http://188.241.32.110:8000/play/a00d/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Intermedia TV
+http://188.241.32.110:8000/play/intermedia/index.m3u8
+#EXTINF:0 tvg-id="JimJam.eu" group-title="Channels",Jim Jam
+http://188.241.32.110:8000/play/a03e/index.m3u8
+#EXTINF:0 tvg-id="jurnal" group-title="Channels",Jurnal TV
+http://188.241.32.110:8000/play/a00z/index.m3u8
+#EXTINF:0 tvg-id="KanalD.tr" group-title="Channels",Kanal D
+http://188.241.32.110:8000/play/a03r/index.m3u8
+#EXTINF:0 tvg-id="KanalD.tr" group-title="Channels",Kanal D
+http://188.241.32.110:8000/play/a00v/index.m3u8
+#EXTINF:0 tvg-id="KanalD.tr" group-title="Channels",Kanal D HD
+http://188.241.32.110:8000/play/a02v/index.m3u8
+#EXTINF:0 tvg-id="KissTV.uk" group-title="Channels",Kiss TV
+http://188.241.32.110:8000/play/a023/index.m3u8
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="Channels",MTV Life HD
+http://188.241.32.110:8000/play/a03h/index.m3u8
+#EXTINF:0 tvg-id="Magic.uk" group-title="Channels",Magic TV
+http://188.241.32.110:8000/play/a02s/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Medika
+http://188.241.32.110:8000/play/a02k/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Metropola TV
+http://188.241.32.110:8000/play/a008/index.m3u8
+#EXTINF:0 tvg-id="Minimax.rs" group-title="Channels",Minimax
+http://188.241.32.110:8000/play/a01v/index.m3u8
+#EXTINF:0 tvg-id="moldova1" group-title="Channels",Moldova 1
+http://188.241.32.110:8000/play/a00y/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Moldova TV
+http://188.241.32.110:8000/play/a009/index.m3u8
+#EXTINF:0 tvg-id="MusicChannel.ro" group-title="Channels",Music Channel
+http://188.241.32.110:8000/play/a025/index.m3u8
+#EXTINF:0 tvg-id="National24plus.ro" group-title="Channels",N24 Plus
+http://188.241.32.110:8000/play/a00x/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nasul TV
+http://188.241.32.110:8000/play/a00o/index.m3u8
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="Channels",Nat Geo HD
+http://188.241.32.110:8000/play/a005/index.m3u8
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="Channels",Nat Geo Wild HD
+http://188.241.32.110:8000/play/a006/index.m3u8
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="Channels",National Geo
+http://188.241.32.110:8000/play/a01s/index.m3u8
+#EXTINF:0 tvg-id="NationalTV.ro" group-title="Channels",National TV
+http://188.241.32.110:8000/play/a00w/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nest TV
+http://188.241.32.110:8000/play/a00q/index.m3u8
+#EXTINF:0 tvg-id="NickJunior.es" group-title="Channels",Nick JR
+http://188.241.32.110:8000/play/a01z/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Noroc TV
+http://188.241.32.110:8000/play/a032/index.m3u8
+#EXTINF:0 tvg-id="PRO2.ro" group-title="Channels",PRO 2
+http://188.241.32.110:8000/play/a00h/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRO 2 HD
+http://188.241.32.110:8000/play/a037/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRO ARENA
+http://188.241.32.110:8000/play/a03t/index.m3u8
+#EXTINF:0 tvg-id="PROCinema.ro" group-title="Channels",PRO CINEMA
+http://188.241.32.110:8000/play/a03v/index.m3u8
+#EXTINF:0 tvg-id="pro-tv" group-title="Channels",PRO TV
+http://188.241.32.110:8000/play/a03s/index.m3u8
+#EXTINF:0 tvg-id="pro-tv" group-title="Channels",PRO TV
+http://188.241.32.110:8000/play/a00t/index.m3u8
+#EXTINF:0 tvg-id="TVPaprika.cz" group-title="Channels",Paprika
+http://188.241.32.110:8000/play/a01k/index.m3u8
+#EXTINF:0 tvg-id="PlusTV.pe" group-title="Channels",Plus TV
+http://188.241.32.110:8000/play/a00c/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Prima Sport 1 HD
+http://188.241.32.110:8000/play/a03g/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Prima Sport 3 HD
+http://188.241.32.110:8000/play/a03a/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Prima Sport 4 HD
+http://188.241.32.110:8000/play/a039/index.m3u8
+#EXTINF:0 tvg-id="PROCinema.ro" group-title="Channels",Pro Cinema
+http://188.241.32.110:8000/play/a019/index.m3u8
+#EXTINF:0 tvg-id="ProGold.ro" group-title="Channels",Pro Gold
+http://188.241.32.110:8000/play/a017/index.m3u8
+#EXTINF:0 tvg-id="PROTV.ro" group-title="Channels",Pro TV HD
+http://188.241.32.110:8000/play/a02t/index.m3u8
+#EXTINF:0 tvg-id="ProTVInternational.ro" group-title="Channels",Pro TV International
+http://188.241.32.110:8000/play/a031/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pro X HD
+http://188.241.32.110:8000/play/a036/index.m3u8
+#EXTINF:0 tvg-id="publika" group-title="Channels",Publika TV
+http://188.241.32.110:8000/play/publika/index.m3u8
+#EXTINF:0 tvg-id="rtvint" group-title="Channels",RTV
+http://188.241.32.110:8000/play/a00k/index.m3u8
+#EXTINF:0 tvg-id="Rai1.it" group-title="Channels",Rai 1
+http://188.241.32.110:8000/play/a001/index.m3u8
+#EXTINF:0 tvg-id="Rai3.it" group-title="Channels",Rai 3
+http://188.241.32.110:8000/play/a002/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rapsodia
+http://188.241.32.110:8000/play/a028/index.m3u8
+#EXTINF:0 tvg-id="RealitateaTV.ro" group-title="Channels",Realitatea
+http://188.241.32.110:8000/play/a00j/index.m3u8
+#EXTINF:0 tvg-id="RomaniaTV.ro" group-title="Channels",RomaniaTV
+http://188.241.32.110:8000/play/a03x/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Speranta
+http://188.241.32.110:8000/play/a02m/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Super TV HD
+http://188.241.32.110:8000/play/supertvhd/index.m3u8
+#EXTINF:0 tvg-id="TLC.uk" group-title="Channels",TLC
+http://188.241.32.110:8000/play/a01l/index.m3u8
+#EXTINF:0 tvg-id="ViasatTV1000Balkan.bg" group-title="Channels",TV 1000
+http://188.241.32.110:8000/play/a01h/index.m3u8
+#EXTINF:0 tvg-id="tv5" group-title="Channels",TV 5
+http://188.241.32.110:8000/play/a00n/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV SE
+http://188.241.32.110:8000/play/a00g/index.m3u8
+#EXTINF:0 tvg-id="TVR1.ro" group-title="Channels",TVR 1
+http://188.241.32.110:8000/play/a010/index.m3u8
+#EXTINF:0 tvg-id="TVR1.ro" group-title="Channels",TVR 1
+http://188.241.32.110:8000/play/a00s/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVR 1 HD
+http://188.241.32.110:8000/play/a013/index.m3u8
+#EXTINF:0 tvg-id="TVR2.ro" group-title="Channels",TVR 2
+http://188.241.32.110:8000/play/a01y/index.m3u8
+#EXTINF:0 tvg-id="TVR2.ro" group-title="Channels",TVR 2
+http://188.241.32.110:8000/play/a011/index.m3u8
+#EXTINF:0 tvg-id="TVR3.ro" group-title="Channels",TVR 3
+http://188.241.32.110:8000/play/a012/index.m3u8
+#EXTINF:0 tvg-id="TVRCluj.ro" group-title="Channels",TVR Cluj
+http://188.241.32.110:8000/play/a033/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVR INFO
+http://188.241.32.110:8000/play/a014/index.m3u8
+#EXTINF:0 tvg-id="TVRIasi.ro" group-title="Channels",TVR Iasi
+http://188.241.32.110:8000/play/a02p/index.m3u8
+#EXTINF:0 tvg-id="TVRMoldova.ro" group-title="Channels",TVR Moldova
+http://188.241.32.110:8000/play/a02q/index.m3u8
+#EXTINF:0 tvg-id="TarafTV.ro" group-title="Channels",Taraf TV HD
+http://188.241.32.110:8000/play/a02b/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tele M Botosani
+http://188.241.32.110:8000/play/a016/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tele M Iasi
+http://188.241.32.110:8000/play/a00e/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tele Moldova
+http://188.241.32.110:8000/play/a00p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telestar
+http://188.241.32.110:8000/play/a02o/index.m3u8
+#EXTINF:0 tvg-id="TraceSportStars.eu" group-title="Channels",Trace Sport
+http://188.241.32.110:8000/play/a004/index.m3u8
+#EXTINF:0 tvg-id="TraceUrban.uk" group-title="Channels",Trace Urban
+http://188.241.32.110:8000/play/a03j/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Traditional
+http://188.241.32.110:8000/play/a02c/index.m3u8
+#EXTINF:0 tvg-id="TravelChannel.uk" group-title="Channels",Travel Channel
+http://188.241.32.110:8000/play/a007/index.m3u8
+#EXTINF:0 tvg-id="TravelChannel.ro" group-title="Channels",Travel Mix
+http://188.241.32.110:8000/play/a02h/index.m3u8
+#EXTINF:0 tvg-id="TrinitasTV.ro" group-title="Channels",Trinitas
+http://188.241.32.110:8000/play/a02e/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",U TV HD
+http://188.241.32.110:8000/play/a02z/index.m3u8
+#EXTINF:0 tvg-id="explorer" group-title="Channels",Viasat Explorer
+http://188.241.32.110:8000/play/a03b/index.m3u8
+#EXTINF:0 tvg-id="ViasatHistory.eu" group-title="Channels",Viasat History
+http://188.241.32.110:8000/play/a03d/index.m3u8
+#EXTINF:0 tvg-id="ViasatNature.eu" group-title="Channels",Viasat Nature
+http://188.241.32.110:8000/play/a03c/index.m3u8
+#EXTINF:0 tvg-id="ViasatNature.eu" group-title="Channels",Viasat Nature
+http://188.241.32.110:8000/play/a02y/index.m3u8
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="Channels",Warner TV
+http://188.241.32.110:8000/play/a03w/index.m3u8
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="Channels",Warner TV
+http://188.241.32.110:8000/play/a01o/index.m3u8
+#EXTINF:0 tvg-id="ZUTV.ro" group-title="Channels",ZU TV
+http://188.241.32.110:8000/play/a024/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ZU TV HD
+http://188.241.32.110:8000/play/a030/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",test
+http://188.241.32.110:8000/play/test/index.m3u8
