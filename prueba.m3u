@@ -1,221 +1,159 @@
 #EXTM3U
-#EXTINF:0 tvg-id="70sHits.us" group-title="Channels",70s Hits
-http://177.234.242.6:50032/play/a03t/index.m3u8
-#EXTINF:0 tvg-id="80sHits.us" group-title="Channels",80s Hits
-http://177.234.242.6:50032/play/a03u/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE Mundo
-http://177.234.242.6:50032/play/a03n/index.m3u8
-#EXTINF:0 tvg-id="AXNhd.es" group-title="Channels",AXN
-http://177.234.242.6:50032/play/a05w/index.m3u8
-#EXTINF:0 tvg-id="AzClicHD.cl" group-title="Channels",AZ Cinema HD
-http://177.234.242.6:50032/play/a00t/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",America TV PY
-http://177.234.242.6:50032/play/a04k/index.m3u8
-#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Channels",Animal Planet
-http://177.234.242.6:50032/play/a03e/index.m3u8
-#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Channels",Animal Planet HD
-http://177.234.242.6:50032/play/a00x/index.m3u8
-#EXTINF:0 tvg-id="Babyfirstenglish.hu" group-title="Channels",BabyFirst
-http://177.234.242.6:50032/play/a02o/index.m3u8
-#EXTINF:0 tvg-id="CDFBasico.cl" group-title="Channels",CDF HD
-http://177.234.242.6:50032/play/a011/index.m3u8
-#EXTINF:0 tvg-id="CNNChile.cl" group-title="Channels",CNN Chile
-http://177.234.242.6:50032/play/a02e/index.m3u8
-#EXTINF:0 tvg-id="CNNEspanol.cl" group-title="Channels",CNN Espanol
-http://177.234.242.6:50032/play/a02s/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CNT SPORTS SD
-http://177.234.242.6:50032/play/a06f/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal Claro
-http://177.234.242.6:50032/play/a048/index.m3u8
-#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="Channels",Cartoon Network
-http://177.234.242.6:50032/play/a02h/index.m3u8
-#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="Channels",Cartoon Network HD
-http://177.234.242.6:50032/play/a00p/index.m3u8
-#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Channels",Cinecanal
-http://177.234.242.6:50032/play/a029/index.m3u8
-#EXTINF:0 tvg-id="CinecanalHD.mx" group-title="Channels",Cinecanal HD
-http://177.234.242.6:50032/play/a00g/index.m3u8
-#EXTINF:0 tvg-id="Cinemax.bg" group-title="Channels",Cinemax
-http://177.234.242.6:50032/play/a05u/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Claro Cinema
-http://177.234.242.6:50032/play/a065/index.m3u8
-#EXTINF:0 tvg-id="ClaroSports.mx" group-title="Channels",Claro Sports
-http://177.234.242.6:50032/play/a02j/index.m3u8
-#EXTINF:0 tvg-id="ClassicRock.us" group-title="Channels",Classic Rock
-http://177.234.242.6:50032/play/a03s/index.m3u8
-#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="Channels",Discovery Channel
-http://177.234.242.6:50032/play/a03d/index.m3u8
-#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Channels",Discovery Kids
-http://177.234.242.6:50032/play/a02r/index.m3u8
-#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Channels",Discovery Turbo
-http://177.234.242.6:50032/play/a067/index.m3u8
-#EXTINF:0 tvg-id="DiscoveryWorldHD.pe" group-title="Channels",Discovery World HD
-http://177.234.242.6:50032/play/a00f/index.m3u8
-#EXTINF:0 tvg-id="DisneyChannel.es" group-title="Channels",Disney Channel
-http://177.234.242.6:50032/play/a03c/index.m3u8
-#EXTINF:0 tvg-id="DisneyJr.es" group-title="Channels",Disney Jr
-http://177.234.242.6:50032/play/a034/index.m3u8
-#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Channels",Distrito Comedia
-http://177.234.242.6:50032/play/a06i/index.m3u8
-#EXTINF:0 tvg-id="E.mx" group-title="Channels",E Entertainment
-http://177.234.242.6:50032/play/a03g/index.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="Channels",ESPN
-http://177.234.242.6:50032/play/a03j/index.m3u8
-#EXTINF:0 tvg-id="ESPN2.mx" group-title="Channels",ESPN 2
-http://177.234.242.6:50032/play/a037/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 Latin
-http://177.234.242.6:50032/play/a03i/index.m3u8
-#EXTINF:0 tvg-id="ESPN3.mx" group-title="Channels",ESPN 3
-http://177.234.242.6:50032/play/a069/index.m3u8
-#EXTINF:0 tvg-id="ESPN4.nl" group-title="Channels",ESPN 4
-http://177.234.242.6:50032/play/a04g/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN CO
-http://177.234.242.6:50032/play/a07w/index.m3u8
-#EXTINF:0 tvg-id="Espnextra.br" group-title="Channels",ESPN EXTRA HD
-http://177.234.242.6:50032/play/a00i/index.m3u8
-#EXTINF:0 tvg-id="ESPNHD.mx" group-title="Channels",ESPN+ HD
-http://177.234.242.6:50032/play/a012/index.m3u8
-#EXTINF:0 tvg-id="EcuadorTV.us" group-title="Channels",Ecuador TV
-http://177.234.242.6:50032/play/a04l/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Ecuavisa
-http://177.234.242.6:50032/play/a07p/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ElCanaldelFutbol SD
-http://177.234.242.6:50032/play/a06u/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ElCanaldelFœtbolSD2
-http://177.234.242.6:50032/play/a06g/index.m3u8
-#EXTINF:0 tvg-id="Enlace.us" group-title="Channels",Enlace
-http://177.234.242.6:50032/play/a02m/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Esne TV
-http://177.234.242.6:50032/play/a068/index.m3u8
-#EXTINF:0 tvg-id="FX.uk" group-title="Channels",FX
-http://177.234.242.6:50032/play/a05y/index.m3u8
-#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Channels",Fox Sports 2
-http://177.234.242.6:50032/play/a042/index.m3u8
-#EXTINF:0 tvg-id="FoxSports3.mx" group-title="Channels",Fox Sports 3
-http://177.234.242.6:50032/play/a043/index.m3u8
-#EXTINF:0 tvg-id="FRANCE24.es" group-title="Channels",France 24
-http://177.234.242.6:50032/play/a047/index.m3u8
-#EXTINF:0 tvg-id="GOL.es" group-title="Channels",GOL TV
-http://177.234.242.6:50032/play/a03k/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GamaTV
-http://177.234.242.6:50032/play/a04m/index.m3u8
-#EXTINF:0 tvg-id="GOL.es" group-title="Channels",Gol TV
-http://177.234.242.6:50032/play/a06t/index.m3u8
-#EXTINF:0 tvg-id="HBO.bg" group-title="Channels",HBO
-http://177.234.242.6:50032/play/a05t/index.m3u8
-#EXTINF:0 tvg-id="HBO2.cz" group-title="Channels",HBO 2
-http://177.234.242.6:50032/play/a08j/index.m3u8
-#EXTINF:0 tvg-id="HBO2.pl" group-title="Channels",HBO 2 HD
-http://177.234.242.6:50032/play/a00v/index.m3u8
-#EXTINF:0 tvg-id="Hbofamily.br" group-title="Channels",HBO Family
-http://177.234.242.6:50032/play/a08m/index.m3u8
-#EXTINF:0 tvg-id="Hbofamily.br" group-title="Channels",HBO Family
-http://177.234.242.6:50032/play/a033/index.m3u8
-#EXTINF:0 tvg-id="HBO.hu" group-title="Channels",HBO HD
-http://177.234.242.6:50032/play/a00y/index.m3u8
-#EXTINF:0 tvg-id="HBO.hu" group-title="Channels",HBO HD
-http://177.234.242.6:50032/play/a00l/index.m3u8
-#EXTINF:0 tvg-id="Maxup.br" group-title="Channels",HBO POP
-http://177.234.242.6:50032/play/a06n/index.m3u8
-#EXTINF:0 tvg-id="Hboplus.br" group-title="Channels",HBO Plus
-http://177.234.242.6:50032/play/a08k/index.m3u8
-#EXTINF:0 tvg-id="Maxprime.br" group-title="Channels",HBO XTREME SD
-http://177.234.242.6:50032/play/a08l/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Hit List
-http://177.234.242.6:50032/play/a085/index.m3u8
-#EXTINF:0 tvg-id="HomeHealth.mx" group-title="Channels",HomeandHealth
-http://177.234.242.6:50032/play/a04b/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kanal D Drama HD
-http://177.234.242.6:50032/play/a00o/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",La Redonda TV
-http://177.234.242.6:50032/play/a06x/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Latin Pop
-http://177.234.242.6:50032/play/a086/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Latino Tropical
-http://177.234.242.6:50032/play/a087/index.m3u8
-#EXTINF:0 tvg-id="Lifetime.uk" group-title="Channels",Lifetime
-http://177.234.242.6:50032/play/a02p/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Love Music
-http://177.234.242.6:50032/play/a03r/index.m3u8
-#EXTINF:0 tvg-id="stb" group-title="Channels",MEGA HD
-http://177.234.242.6:50032/play/a00d/index.m3u8
-#EXTINF:0 tvg-id="MTVEsp.es" group-title="Channels",MTV
-http://177.234.242.6:50032/play/a02c/index.m3u8
-#EXTINF:0 tvg-id="NTV.uk" group-title="Channels",NTV
-http://177.234.242.6:50032/play/a00b/index.m3u8
-#EXTINF:0 tvg-id="NationalGeographic.es" group-title="Channels",Nat Geo
-http://177.234.242.6:50032/play/a023/index.m3u8
-#EXTINF:0 tvg-id="NatGeoWild.es" group-title="Channels",Nat Geo HD
-http://177.234.242.6:50032/play/a00e/index.m3u8
-#EXTINF:0 tvg-id="NewAge.us" group-title="Channels",New Age
-http://177.234.242.6:50032/play/a03q/index.m3u8
-#EXTINF:0 tvg-id="NickJunior.es" group-title="Channels",Nick Jr
-http://177.234.242.6:50032/play/a066/index.m3u8
-#EXTINF:0 tvg-id="Nickelodeon.es" group-title="Channels",Nickelodeon
-http://177.234.242.6:50032/play/a021/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",OROMAR TV
-http://177.234.242.6:50032/play/a06p/index.m3u8
-#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="Channels",Paramount HD
-http://177.234.242.6:50032/play/a00q/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RCN Novelas
-http://177.234.242.6:50032/play/a045/index.m3u8
-#EXTINF:0 tvg-id="RTSSAT.rs" group-title="Channels",RTS
-http://177.234.242.6:50032/play/a062/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTU
-http://177.234.242.6:50032/play/a06l/index.m3u8
-#EXTINF:0 tvg-id="Reggae.us" group-title="Channels",Reggae
-http://177.234.242.6:50032/play/a03v/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Reggaeton
-http://177.234.242.6:50032/play/a03w/index.m3u8
-#EXTINF:0 tvg-id="RegionalMexican.us" group-title="Channels",Regional Mexican
-http://177.234.242.6:50032/play/a03y/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rock Latino
-http://177.234.242.6:50032/play/a03x/index.m3u8
-#EXTINF:0 tvg-id="otr" group-title="Channels",STAR CHANNEL
-http://177.234.242.6:50032/play/a02f/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",STAR TVE HD
-http://177.234.242.6:50032/play/a00s/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Salsa y Merengue
-http://177.234.242.6:50032/play/a083/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sin Limites
-http://177.234.242.6:50032/play/a04j/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Solo Para Peques
-http://177.234.242.6:50032/play/a084/index.m3u8
-#EXTINF:0 tvg-id="SonyCrimeChannel.uk" group-title="Channels",Sony
-http://177.234.242.6:50032/play/a05v/index.m3u8
-#EXTINF:0 tvg-id="Space.br" group-title="Channels",Space
-http://177.234.242.6:50032/play/a05x/index.m3u8
-#EXTINF:0 tvg-id="StudioUniversal.it" group-title="Channels",Studio Universal
-http://177.234.242.6:50032/play/a036/index.m3u8
-#EXTINF:0 tvg-id="StudioUniversalHD.cl" group-title="Channels",Studio Universal HD
-http://177.234.242.6:50032/play/a00r/index.m3u8
-#EXTINF:0 tvg-id="Scifi.es" group-title="Channels",SyFy
-http://177.234.242.6:50032/play/a02q/index.m3u8
-#EXTINF:0 tvg-id="Symphonic.us" group-title="Channels",Symphonic
-http://177.234.242.6:50032/play/a03p/index.m3u8
-#EXTINF:0 tvg-id="24dok" group-title="Channels",TBS
-http://177.234.242.6:50032/play/a049/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TC Television
-http://177.234.242.6:50032/play/a07m/index.m3u8
-#EXTINF:0 tvg-id="TNT.es" group-title="Channels",TNT
-http://177.234.242.6:50032/play/a02i/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV+ HD
-http://177.234.242.6:50032/play/a00c/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Teleamazonas
-http://177.234.242.6:50032/play/a08a/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Teleciudadana
-http://177.234.242.6:50032/play/a06k/index.m3u8
-#EXTINF:0 tvg-id="Telemundo.mx" group-title="Channels",Telemundo
-http://177.234.242.6:50032/play/a044/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Televicentro
-http://177.234.242.6:50032/play/a06v/index.m3u8
-#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",Universal
-http://177.234.242.6:50032/play/a02a/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Via X Esports
-http://177.234.242.6:50032/play/a06h/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",WUAN+
-http://177.234.242.6:50032/play/a06w/index.m3u8
-#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Channels",Warner
-http://177.234.242.6:50032/play/a03f/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Win Sports+ HD
-http://177.234.242.6:50032/play/a00w/index.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",Bein Sport 1
+http://162.19.154.135:8000/play/bein1/index.m3u8
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",Bein Sport 2
+http://162.19.154.135:8000/play/a001/index.m3u8
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",Bein Sport 3
+http://162.19.154.135:8000/play/a002/index.m3u8
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",Bein Sport 4
+http://162.19.154.135:8000/play/a003/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport 4K
+http://162.19.154.135:8000/play/a005/index.m3u8
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",Bein Sport 5
+http://162.19.154.135:8000/play/a004/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Exxen Sports 1
+http://162.19.154.135:8000/play/a006/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Exxen Sports 2
+http://162.19.154.135:8000/play/a007/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Exxen Sports 3
+http://162.19.154.135:8000/play/a008/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Exxen Sports 4
+http://162.19.154.135:8000/play/a009/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Exxen Sports 5
+http://162.19.154.135:8000/play/a00a/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Exxen Sports 6
+http://162.19.154.135:8000/play/a00b/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Exxen Sports 7
+http://162.19.154.135:8000/play/a00c/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Exxen Sports 8
+http://162.19.154.135:8000/play/a00d/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",(DE) SKY SPORT 1
+http://103.166.183.78:12345/play/skysport1
+#EXTINF:0 tvg-id="ext" group-title="Channels",(DE) SKY SPORT 10
+http://103.166.183.78:12345/play/skySP10
+#EXTINF:0 tvg-id="ext" group-title="Channels",(DE) SKY SPORT 3
+http://103.166.183.78:12345/play/skysport3
+#EXTINF:0 tvg-id="ext" group-title="Channels",(DE) SKY SPORT 4
+http://103.166.183.78:12345/play/a02e
+#EXTINF:0 tvg-id="ext" group-title="Channels",(DE) SKY SPORT 5
+http://103.166.183.78:12345/play/skySP5
+#EXTINF:0 tvg-id="ext" group-title="Channels",(DE) SKY SPORT 6
+http://103.166.183.78:12345/play/skySP6
+#EXTINF:0 tvg-id="ext" group-title="Channels",(DE) SKY SPORT 7
+http://103.166.183.78:12345/play/skySP7
+#EXTINF:0 tvg-id="ext" group-title="Channels",(DE) SKY SPORT 8
+http://103.166.183.78:12345/play/skySP8
+#EXTINF:0 tvg-id="ext" group-title="Channels",(DE) SKY SPORT 9
+http://103.166.183.78:12345/play/skySP9
+#EXTINF:0 tvg-id="ext" group-title="Channels",(DE) Sky Bundesliga 1
+http://103.166.183.78:12345/play/bundesliga1
+#EXTINF:0 tvg-id="ext" group-title="Channels",(DE) Sky Bundesliga 2
+http://103.166.183.78:12345/play/skybundes2
+#EXTINF:0 tvg-id="ext" group-title="Channels",(DE) Sky Bundesliga 3
+http://103.166.183.78:12345/play/bundesliga3
+#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) EURONEWS HD
+http://103.166.183.78:12345/play/eurogr
+#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) COSMOTE CINEMA 3
+http://103.166.183.78:12345/play/cosmomcinema3
+#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) COSMOTE Sport 1 HD
+http://103.166.183.78:12345/play/cmt1
+#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) COSMOTE Sport 4 HD
+http://103.166.183.78:12345/play/cmt4
+#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) COSMOTE Sport 5 HD
+http://103.166.183.78:12345/play/cmt5
+#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) COSMOTE Sport 6 HD
+http://103.166.183.78:12345/play/cmt6
+#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) COSMOTE Sport 7 HD
+http://103.166.183.78:12345/play/cmt7
+#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) COSMOTE Sport 8 HD
+http://103.166.183.78:12345/play/cmt8
+#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) COSMOTE Sport 9 HD
+http://103.166.183.78:12345/play/cms9
+#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) COSMOTE Sport Hihglight
+http://103.166.183.78:12345/play/cosmotehighli
+#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) NOVA SPORTS 1
+http://103.166.183.78:12345/play/ns1
+#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) NOVA SPORTS 2
+http://103.166.183.78:12345/play/ns2
+#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) NOVA SPORTS 3
+http://103.166.183.78:12345/play/ns3
+#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) NOVA SPORTS 4
+http://103.166.183.78:12345/play/ns4
+#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) NOVA SPORTS 5
+http://103.166.183.78:12345/play/ns5
+#EXTINF:0 tvg-id="ext" group-title="Channels",(GR) NOVA SPORTS PRIME
+http://103.166.183.78:12345/play/nsprime
+#EXTINF:0 tvg-id="ext" group-title="Channels",(SP) BEIN EXTRA
+http://103.166.183.78:12345/play/beinextrasp
+#EXTINF:0 tvg-id="ext" group-title="Channels",(SP) M. La Liga
+http://103.166.183.78:12345/play/a02g
+#EXTINF:0 tvg-id="ext" group-title="Channels",(SP) M. Liga de Campeones
+http://103.166.183.78:12345/play/a00g
+#EXTINF:0 tvg-id="ext" group-title="Channels",(SP) M. Liga de Campeones 2 HD
+http://103.166.183.78:12345/play/mlaliga2
+#EXTINF:0 tvg-id="ext" group-title="Channels",(SP) M. Liga de Campeones 3 HD
+http://103.166.183.78:12345/play/mlaliga1
+#EXTINF:0 tvg-id="ext" group-title="Channels",(SP) SKY LA LIGA
+http://103.166.183.78:12345/play/skysportsespa
+#EXTINF:0 tvg-id="ext" group-title="Channels",(SP) SKY PREMIER LEAGUE
+http://103.166.183.78:12345/play/skyprling
+#EXTINF:0 tvg-id="ext" group-title="Channels",(UK )BEIN SPORT
+http://103.166.183.78:12345/play/beinuk
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",(UK) SKY SPORTS F1
+http://103.166.183.78:12345/play/f1en
+#EXTINF:0 tvg-id="ext" group-title="Channels",(UK) BT Sport 1 HD
+http://103.166.183.78:12345/play/btsport1
+#EXTINF:0 tvg-id="ext" group-title="Channels",(UK) BT Sport 2 HD
+http://103.166.183.78:12345/play/btsport2
+#EXTINF:0 tvg-id="ext" group-title="Channels",(UK) BT Sport 3 HD
+http://103.166.183.78:12345/play/a029
+#EXTINF:0 tvg-id="ext" group-title="Channels",(UK) Premier Sports 1
+http://103.166.183.78:12345/play/premiersport1
+#EXTINF:0 tvg-id="ext" group-title="Channels",(UK) Premier Sports 2
+http://103.166.183.78:12345/play/premsport
+#EXTINF:0 tvg-id="ext" group-title="Channels",(UK) SKY SPORTS MIX FHD
+http://103.166.183.78:12345/play/skysportmix
+#EXTINF:0 tvg-id="ext" group-title="Channels",(UK) SKY SPORTS MIX HD
+http://103.166.183.78:12345/play/skyeventmix
+#EXTINF:0 tvg-id="ext" group-title="Channels",(UK) SKY SPORTS PREMIER LEAGUE FHD
+http://103.166.183.78:12345/play/skysportspreimli
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",(UK) Sky Sports F1
+http://103.166.183.78:12345/play/skyf1uk
+#EXTINF:0 tvg-id="ext" group-title="Channels",(UK) Sky Sports Football
+http://103.166.183.78:12345/play/skyuk
+#EXTINF:0 tvg-id="ext" group-title="Channels",(UK) Sky Sports Main Event
+http://103.166.183.78:12345/play/skyevent
+#EXTINF:0 tvg-id="ext" group-title="Channels",(UK) Sport1+ HD
+http://103.166.183.78:12345/play/sport1ex
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K EVENT
+http://103.166.183.78:12345/play/a028
+#EXTINF:0 tvg-id="ext" group-title="Channels",BT SPORT UHD
+http://103.166.183.78:12345/play/btuhd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Feed
+http://103.166.183.78:12345/play/test
+#EXTINF:0 tvg-id="ext" group-title="Channels",K+ SPORT 1
+http://103.166.183.78:12345/play/keo1
+#EXTINF:0 tvg-id="match" group-title="Channels",Match TV
+http://103.166.183.78:12345/play/match
+#EXTINF:0 tvg-id="ext" group-title="Channels",OBS.LIVESTREAM
+http://103.166.183.78:12345/play/1
+#EXTINF:0 tvg-id="ext" group-title="Channels",On Sports News
+http://103.166.183.78:12345/play/a02j
+#EXTINF:0 tvg-id="ext" group-title="Channels",Polsat Premium 1
+http://103.166.183.78:12345/play/polsatpre1
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY EPL
+http://103.166.183.78:12345/play/a00f
+#EXTINF:0 tvg-id="SkySportsF1.uk" group-title="Channels",SKY F1
+http://103.166.183.78:12345/play/skyf1
+#EXTINF:0 tvg-id="SkySportUHD.de" group-title="Channels",SKY SPORT UHD
+http://103.166.183.78:12345/play/a00o
+#EXTINF:0 tvg-id="ext" group-title="Channels",Setanta + HD UA
+http://103.166.183.78:12345/play/sentana
+#EXTINF:0 tvg-id="ext" group-title="Channels",Setanta UA
+http://103.166.183.78:12345/play/a02h
+#EXTINF:0 tvg-id="ext" group-title="Channels",Setanta Ukraine 1
+http://103.166.183.78:12345/play/setantaua
+#EXTINF:0 tvg-id="ext" group-title="Channels",Setanta Ukraine 2
+http://103.166.183.78:12345/play/setanta2
+#EXTINF:0 tvg-id="sportdigital.de" group-title="Channels",Sportdigital
+http://103.166.183.78:12345/play/a02i
