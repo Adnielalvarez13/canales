@@ -1,17 +1,3 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Tsn 1
-http://cdn.geoiptv.org:2052/live/65938972/96486101/652200.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CA: Rds HD
-http://cdn.geoiptv.org:2052/live/65938972/96486101/652201.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PL: TVp Sport
-http://cdn.geoiptv.org:2052/live/65938972/96486101/652202.m3u8
-#EXTINF:0 tvg-id="FOXSports1HD.us" group-title="Channels",US: Fox Sports 1 HD
-http://cdn.geoiptv.org:2052/live/65938972/96486101/652203.m3u8
-#EXTINF:0 tvg-id="FSNWestHD.us" group-title="Channels",US: Fox Sports West FHD
-http://cdn.geoiptv.org:2052/live/65938972/96486101/652204.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",T20: Gazi TV HD
-http://cdn.geoiptv.org:2052/live/65938972/96486101/625480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",T20: PTV Sports (B1)
-http://cdn.geoiptv.org:2052/live/65938972/96486101/617375.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",T20: PTV Sports (B2)
-http://cdn.geoiptv.org:2052/live/65938972/96486101/617380.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PAK: Ten Sports Pk
+http://cdn.geoiptv.org:2052/live/65938972/96486101/179011.m3u8
