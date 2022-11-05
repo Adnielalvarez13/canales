@@ -39,8 +39,6 @@ http://90.166.42.65:8182/play/a01z
 http://90.166.42.65:8182/play/a01j
 #EXTINF:0 tvg-id="ext" group-title="Channels",EXTREMADURA SAT
 http://90.166.42.65:8182/play/a02i
-#EXTINF:0 tvg-id="LCI.fr" group-title="Channels",LCI HD
-http://90.166.42.65:8182/play/a02h
 #EXTINF:0 tvg-id="nick-jr" group-title="Channels",NICKELODEON JUNIOR
 http://90.166.42.65:8182/play/a010
 #EXTINF:0 tvg-id="ext" group-title="Channels",NICKELODEON TEEN
