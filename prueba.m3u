@@ -1,33 +1,30 @@
 #EXTM3U
-ttp://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/1695
-#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| CUATRO HD
-http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/1694
-#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| TELECINCO HD
-http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/1693
-#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| LA SEXTA HD
-http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/1692
-#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| TRECE HD
-http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/458943
-#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| CANAL SUR A.
-http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/1691
-#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| 0 HD
-http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/1683
-#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| FDF
-http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/1690
-#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| EL TORO TV HD
-http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/460518
-#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| CMM SD
-http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/412801
-#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| DARK HD
-http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/412733
-#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| ENERGY
-http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/1689
-#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| DIVINITY
-http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/1688
-#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| MEGA HD
-http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/1687
-#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| BE MAD
-http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/1686
-#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| NEOX
-http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/1685
-#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| UBEAT
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| POP VIDEOLAND TV SHOWS
+http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/473762
+#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| POP SHOWTIME TV SHOWS
+http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/473761
+#EXTINF:0 tvg-id="ext" group-title="Channels",|ES| POP SERIES A3PLAYER TV SHOWS
+http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/473760
+#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| POP PARAMOUNT TV SHOWS
+http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/473759
+#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| POP NETFLIX TV SHOWS
+http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/473758
+#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| POP MOVISTAR TV SHOWS
+http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/473757
+#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| POP MARVEL TV SHOWS
+http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/473756
+#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| POP HBO TV SHOWS
+http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/473755
+#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| POP DISNEY TV SHOWS
+http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/473754
+#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| POP BRITBOX ES TV SHOWS
+http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/473753
+#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| POP APPLE TV SHOWS
+http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/473752
+#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| POP AMC TV SHOWS
+http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/473751
+#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| POP AMAZON PRIME TV SHOWS
+http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/473750
+#EXTINF:0 tvg-id="ext" group-title="Channels",|SP| POP DOCU RELAXATION
+http://diginovva.ottc.pro:80/cPdCMmyG5CNGX4B/ZUCXTXFXYG/229316
